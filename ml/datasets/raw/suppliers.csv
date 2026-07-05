@@ -1,0 +1,201 @@
+supplier_id,supplier_name,industry,country,city,years_in_business,employees,tier,profile,persona,status,trust_score,risk_level,financial_score,delivery_score,quality_score,compliance_score,news_risk_score,failure_probability,confidence,last_updated
+SUP000001,Phoenix Micro Industries,Semiconductor,Vietnam,Da Nang,5,428,Tier-2,Declining,Operationally Weak,ACTIVE,80,LOW,70,100,56,74,0,0.2,0.89,2025-12-31
+SUP000002,Orion Precision Technologies,Automotive,India,Pune,13,1571,Tier-1,Premium,Compliance Champion,ACTIVE,98,LOW,96,100,96,99,0,0.02,0.93,2025-12-31
+SUP000003,Apex Energy Industries,Battery,Japan,Tokyo,15,2260,Tier-1,Premium,Market Leader,ACTIVE,98,LOW,98,100,96,97,0,0.02,0.96,2025-12-31
+SUP000004,Zenith Containers Pvt Ltd,Packaging,India,Hyderabad,2,132,Tier-2,Growing,Fast Growing Startup,ACTIVE,94,LOW,92,100,90,81,0,0.06,0.95,2025-12-31
+SUP000005,Prime Semiconductors Industries,Semiconductor,China,Shanghai,21,1629,Tier-2,Stable,Cost Efficient,ACTIVE,94,LOW,92,100,85,95,0,0.06,0.85,2025-12-31
+SUP000006,Apex Batteries Corporation,Battery,India,Bangalore,4,509,Tier-2,Growing,Innovation Driven,ACTIVE,81,LOW,92,42,96,84,0,0.19,0.92,2025-12-31
+SUP000007,Sterling Foundry Pvt Ltd,Steel,USA,Houston,10,388,Tier-1,Growing,Innovation Driven,ACTIVE,92,LOW,83,100,96,82,0,0.08,0.82,2025-12-31
+SUP000008,Phoenix Chemicals Pvt Ltd,Chemical,India,Hyderabad,21,1898,Tier-3,Stable,Legacy Manufacturer,ACTIVE,89,LOW,85,100,84,93,25,0.11,0.79,2025-12-31
+SUP000009,Omega Motors Pvt Ltd,Automotive,Vietnam,Hanoi,1,168,Tier-3,New,Logistics Sensitive,ACTIVE,89,LOW,82,100,75,92,0,0.11,0.91,2025-12-31
+SUP000010,Orion Micro Industries,Semiconductor,India,Bangalore,19,769,Tier-2,Declining,Operationally Weak,ACTIVE,76,LOW,52,100,60,89,0,0.49,0.86,2025-12-31
+SUP000011,Phoenix Precision Enterprises,Automotive,China,Shenzhen,23,7490,Tier-1,Premium,Market Leader,ACTIVE,97,LOW,96,100,97,84,0,0.03,0.97,2025-12-31
+SUP000012,Phoenix Semiconductors Industries,Semiconductor,Japan,Yokohama,13,1447,Tier-3,Stable,Logistics Sensitive,ACTIVE,90,LOW,83,100,84,79,0,0.1,0.84,2025-12-31
+SUP000013,Sterling Labs Enterprises,Chemical,India,Hyderabad,2,214,Tier-3,New,Innovation Driven,ACTIVE,88,LOW,80,100,91,62,0,0.12,0.85,2025-12-31
+SUP000014,Titan Textiles Corporation,Textile,South Korea,Daegu,18,1602,Tier-1,Stable,Compliance Champion,ACTIVE,90,LOW,83,100,78,98,0,0.1,0.8,2025-12-31
+SUP000015,Titan Precision Enterprises,Automotive,India,Bangalore,12,2096,Tier-1,Premium,Quality Focused,ACTIVE,96,LOW,94,100,96,83,0,0.04,0.82,2025-12-31
+SUP000016,Vertex Foundry Enterprises,Steel,India,Chennai,12,267,Tier-2,High Risk,Financially Fragile,UNDER_REVIEW,69,MEDIUM,38,100,60,52,0,0.56,0.83,2025-12-31
+SUP000017,Titan Electronics Technologies,Semiconductor,China,Shanghai,7,592,Tier-1,Growing,Customer Centric,ACTIVE,92,LOW,85,100,92,78,0,0.08,0.85,2025-12-31
+SUP000018,Sterling Precision Group,Automotive,Vietnam,Hanoi,18,1397,Tier-2,Declining,Financially Fragile,ACTIVE,77,LOW,52,100,74,70,0,0.33,0.93,2025-12-31
+SUP000019,Vertex Motors Pvt Ltd,Automotive,USA,Chicago,31,649,Tier-2,Declining,Legacy Manufacturer,ACTIVE,78,LOW,54,100,79,86,0,0.37,0.87,2025-12-31
+SUP000020,Zenith Logistics Group,Logistics,India,Chennai,28,513,Tier-3,Stable,Legacy Manufacturer,ACTIVE,91,LOW,83,100,84,96,0,0.09,0.87,2025-12-31
+SUP000021,Delta Packaging Enterprises,Packaging,Germany,Ludwigshafen,23,1420,Tier-3,Stable,Legacy Manufacturer,ACTIVE,89,LOW,81,100,85,81,0,0.11,0.94,2025-12-31
+SUP000022,Falcon Electronics Corporation,Semiconductor,India,Pune,13,1299,Tier-2,Declining,Operationally Weak,ACTIVE,78,LOW,58,100,71,70,0,0.22,0.93,2025-12-31
+SUP000023,Vertex Textiles Enterprises,Textile,China,Shanghai,9,901,Tier-1,Growing,Customer Centric,ACTIVE,94,LOW,90,100,85,97,0,0.06,0.96,2025-12-31
+SUP000024,Delta Logistics Enterprises,Logistics,Germany,Munich,10,1225,Tier-2,Declining,Operationally Weak,ACTIVE,71,MEDIUM,55,100,51,70,0,0.39,0.88,2025-12-31
+SUP000025,Delta Labs Industries,Chemical,China,Guangzhou,30,4447,Tier-1,Premium,Enterprise Leader,ACTIVE,98,LOW,98,100,95,96,0,0.02,0.95,2025-12-31
+SUP000026,Falcon Precision Pvt Ltd,Automotive,Germany,Munich,13,965,Tier-3,Stable,Logistics Sensitive,ACTIVE,92,LOW,85,100,87,89,0,0.08,0.79,2025-12-31
+SUP000027,Sterling Weaving Corporation,Textile,India,Hyderabad,8,1200,Tier-1,Stable,Customer Centric,ACTIVE,89,LOW,81,100,84,83,0,0.11,0.92,2025-12-31
+SUP000028,Vertex Semiconductors Technologies,Semiconductor,India,Hyderabad,3,63,Tier-1,Growing,Fast Growing Startup,ACTIVE,95,LOW,90,100,91,96,0,0.05,0.97,2025-12-31
+SUP000029,Nova Weaving Technologies,Textile,USA,San Jose,23,462,Tier-3,Stable,Compliance Champion,ACTIVE,91,LOW,87,100,85,99,18,0.09,0.94,2025-12-31
+SUP000030,Falcon Cartons Enterprises,Packaging,India,Hyderabad,10,266,Tier-2,High Risk,Operationally Weak,UNDER_REVIEW,48,HIGH,24,36,48,67,0,0.77,0.79,2025-12-31
+SUP000031,Orion Containers Group,Packaging,South Korea,Daegu,36,1660,Tier-2,Stable,Legacy Manufacturer,ACTIVE,92,LOW,85,100,85,98,0,0.08,0.9,2025-12-31
+SUP000032,Titan Semiconductors Corporation,Semiconductor,China,Shenzhen,5,173,Tier-2,High Risk,Crisis Prone,UNDER_REVIEW,45,HIGH,36,36,37,70,0,0.8,0.81,2025-12-31
+SUP000033,Titan Motors Pvt Ltd,Automotive,China,Shenzhen,33,1404,Tier-1,Stable,Legacy Manufacturer,ACTIVE,88,LOW,81,100,87,65,0,0.12,0.81,2025-12-31
+SUP000034,Apex Precision Industries,Automotive,India,Bangalore,2,36,Tier-3,New,Fast Growing Startup,ACTIVE,83,LOW,66,100,83,76,0,0.32,0.8,2025-12-31
+SUP000035,Delta Chemicals Enterprises,Chemical,Japan,Yokohama,23,1570,Tier-1,Stable,Compliance Champion,ACTIVE,92,LOW,83,100,88,100,0,0.08,0.87,2025-12-31
+SUP000036,Titan Pharma Pvt Ltd,Pharmaceutical,India,Chennai,23,697,Tier-2,Stable,Cost Efficient,ACTIVE,95,LOW,96,100,84,90,0,0.05,0.98,2025-12-31
+SUP000037,Vertex Electronics Pvt Ltd,Semiconductor,India,Pune,21,925,Tier-2,Stable,Logistics Sensitive,ACTIVE,89,LOW,81,100,84,78,0,0.11,0.96,2025-12-31
+SUP000038,Titan Motors Industries,Automotive,India,Chennai,1,193,Tier-3,New,Fast Growing Startup,ACTIVE,89,LOW,88,100,82,60,0,0.11,0.93,2025-12-31
+SUP000039,Vertex Precision Pvt Ltd,Automotive,China,Shenzhen,2,113,Tier-3,New,Fast Growing Startup,ACTIVE,92,LOW,85,100,84,96,0,0.08,0.84,2025-12-31
+SUP000040,Sterling Energy Industries,Battery,USA,San Jose,3,1407,Tier-1,Growing,Customer Centric,ACTIVE,93,LOW,94,100,86,78,0,0.07,0.92,2025-12-31
+SUP000041,Omega Micro Pvt Ltd,Semiconductor,Germany,Stuttgart,23,1194,Tier-1,Stable,Logistics Sensitive,ACTIVE,94,LOW,90,100,86,95,0,0.06,0.84,2025-12-31
+SUP000042,Sterling Components Corporation,Automotive,USA,San Jose,23,976,Tier-2,Stable,Legacy Manufacturer,ACTIVE,87,LOW,83,100,85,72,18,0.13,0.84,2025-12-31
+SUP000043,Nova Motors Corporation,Automotive,Germany,Stuttgart,20,1338,Tier-2,Declining,Financially Fragile,ACTIVE,72,MEDIUM,42,100,69,68,0,0.53,0.84,2025-12-31
+SUP000044,Global Chemicals Pvt Ltd,Chemical,India,Chennai,38,319,Tier-1,Stable,Legacy Manufacturer,ACTIVE,91,LOW,83,100,88,88,0,0.09,0.93,2025-12-31
+SUP000045,Delta Energy Industries,Battery,China,Shenzhen,1,100,Tier-3,New,Fast Growing Startup,ACTIVE,88,LOW,85,100,82,61,0,0.12,0.92,2025-12-31
+SUP000046,Omega Semiconductors Group,Semiconductor,India,Pune,3,54,Tier-3,New,Logistics Sensitive,ACTIVE,79,LOW,56,100,83,60,0,0.36,0.92,2025-12-31
+SUP000047,Zenith Electronics Pvt Ltd,Semiconductor,Japan,Tokyo,5,633,Tier-2,High Risk,Operationally Weak,UNDER_REVIEW,39,CRITICAL,36,22,32,37,0,0.86,0.8,2025-12-31
+SUP000048,Zenith Labs Corporation,Chemical,India,Bangalore,28,2717,Tier-1,Premium,Compliance Champion,ACTIVE,98,LOW,96,100,97,94,0,0.02,0.84,2025-12-31
+SUP000049,Prime Weaving Industries,Textile,Germany,Munich,18,618,Tier-1,Stable,Cost Efficient,ACTIVE,94,LOW,96,100,85,77,0,0.06,0.82,2025-12-31
+SUP000050,Sterling Logistics Pvt Ltd,Logistics,South Korea,Daegu,7,518,Tier-2,High Risk,Operationally Weak,UNDER_REVIEW,61,MEDIUM,38,100,44,32,0,0.64,0.91,2025-12-31
+SUP000051,Delta Energy Technologies,Battery,India,Bangalore,4,1453,Tier-1,Growing,Recovering Supplier,ACTIVE,94,LOW,94,100,88,79,0,0.06,0.94,2025-12-31
+SUP000052,Sterling Energy Corporation,Battery,India,Bangalore,8,571,Tier-1,Growing,Cost Efficient,ACTIVE,94,LOW,98,100,86,77,0,0.06,0.97,2025-12-31
+SUP000053,Phoenix Components Technologies,Automotive,India,Pune,22,523,Tier-3,Stable,Customer Centric,ACTIVE,89,LOW,85,100,85,60,0,0.11,0.8,2025-12-31
+SUP000054,Sterling Power Pvt Ltd,Battery,India,Hyderabad,14,1335,Tier-2,Declining,Financially Fragile,ACTIVE,78,LOW,52,100,68,91,0,0.32,0.95,2025-12-31
+SUP000055,Phoenix Electronics Industries,Semiconductor,Japan,Nagoya,11,741,Tier-1,Stable,Customer Centric,ACTIVE,89,LOW,80,100,86,93,15,0.11,0.94,2025-12-31
+SUP000056,Titan Power Corporation,Battery,Germany,Stuttgart,29,2154,Tier-1,Premium,Quality Focused,ACTIVE,97,LOW,94,100,96,97,0,0.03,0.8,2025-12-31
+SUP000057,Sterling Semiconductors Pvt Ltd,Semiconductor,India,Chennai,2,270,Tier-3,New,Fast Growing Startup,ACTIVE,72,MEDIUM,76,36,84,79,0,0.28,0.95,2025-12-31
+SUP000058,Alpha Weaving Industries,Textile,Germany,Munich,6,766,Tier-2,Declining,Operationally Weak,ACTIVE,74,MEDIUM,55,100,50,77,0,0.36,0.82,2025-12-31
+SUP000059,Delta Chemicals Pvt Ltd,Chemical,China,Shenzhen,10,630,Tier-2,Growing,Customer Centric,ACTIVE,95,LOW,88,100,94,96,0,0.05,0.89,2025-12-31
+SUP000060,Omega Micro Technologies,Semiconductor,India,Hyderabad,16,1615,Tier-3,Stable,Legacy Manufacturer,ACTIVE,92,LOW,85,100,86,95,0,0.08,0.87,2025-12-31
+SUP000061,Global Textiles Corporation,Textile,Vietnam,Da Nang,2,41,Tier-3,New,Fast Growing Startup,ACTIVE,88,LOW,85,100,82,57,0,0.12,0.83,2025-12-31
+SUP000062,Apex Components Technologies,Automotive,South Korea,Daegu,15,1596,Tier-3,Stable,Compliance Champion,ACTIVE,92,LOW,83,100,85,98,0,0.08,0.97,2025-12-31
+SUP000063,Falcon Pharma Group,Pharmaceutical,South Korea,Seoul,6,616,Tier-1,Growing,Innovation Driven,ACTIVE,93,LOW,85,100,96,81,0,0.07,0.85,2025-12-31
+SUP000064,Falcon Packaging Corporation,Packaging,India,Hyderabad,8,667,Tier-2,Growing,Cost Efficient,ACTIVE,97,LOW,96,100,94,91,0,0.03,0.96,2025-12-31
+SUP000065,Titan Weaving Corporation,Textile,Japan,Nagoya,42,1812,Tier-2,Stable,Legacy Manufacturer,ACTIVE,90,LOW,82,100,86,79,0,0.1,0.93,2025-12-31
+SUP000066,Orion Energy Group,Battery,Vietnam,Hanoi,6,766,Tier-1,Growing,Innovation Driven,ACTIVE,95,LOW,90,100,96,94,0,0.05,0.91,2025-12-31
+SUP000067,Falcon Containers Corporation,Packaging,Japan,Yokohama,45,770,Tier-2,Declining,Legacy Manufacturer,ACTIVE,75,LOW,38,100,73,87,0,0.5,0.86,2025-12-31
+SUP000068,Alpha Semiconductors Corporation,Semiconductor,India,Hyderabad,7,599,Tier-2,High Risk,Crisis Prone,UNDER_REVIEW,40,HIGH,36,28,36,52,0,0.85,0.79,2025-12-31
+SUP000069,Apex Cartons Group,Packaging,South Korea,Busan,16,1389,Tier-1,Stable,Logistics Sensitive,ACTIVE,92,LOW,85,100,86,95,0,0.08,0.86,2025-12-31
+SUP000070,Delta Logistics Group,Logistics,Germany,Stuttgart,34,842,Tier-2,Declining,Legacy Manufacturer,ACTIVE,79,LOW,58,100,79,61,0,0.21,0.98,2025-12-31
+SUP000071,Alpha Apparel Technologies,Textile,India,Hyderabad,28,721,Tier-3,Stable,Legacy Manufacturer,ACTIVE,91,LOW,83,100,86,92,0,0.09,0.95,2025-12-31
+SUP000072,Orion Synthetics Technologies,Chemical,India,Bangalore,21,945,Tier-1,Stable,Logistics Sensitive,ACTIVE,93,LOW,90,100,87,91,0,0.07,0.87,2025-12-31
+SUP000073,Phoenix Micro Technologies,Semiconductor,Germany,Munich,13,3717,Tier-1,Premium,Enterprise Leader,ACTIVE,98,LOW,98,100,97,94,0,0.02,0.94,2025-12-31
+SUP000074,Phoenix Containers Technologies,Packaging,China,Guangzhou,8,1136,Tier-2,Growing,Innovation Driven,ACTIVE,95,LOW,92,100,92,92,0,0.05,0.92,2025-12-31
+SUP000075,Horizon Express Enterprises,Logistics,India,Hyderabad,45,592,Tier-3,Stable,Legacy Manufacturer,ACTIVE,93,LOW,90,100,86,91,0,0.07,0.89,2025-12-31
+SUP000076,Delta Motors Corporation,Automotive,China,Shanghai,17,1460,Tier-2,Stable,Logistics Sensitive,ACTIVE,77,LOW,83,42,85,94,0,0.23,0.82,2025-12-31
+SUP000077,Zenith Express Corporation,Logistics,Vietnam,Hanoi,21,630,Tier-3,Stable,Cost Efficient,ACTIVE,90,LOW,87,100,85,98,0,0.1,0.83,2025-12-31
+SUP000078,Delta Freight Enterprises,Logistics,India,Hyderabad,21,1104,Tier-3,Stable,Legacy Manufacturer,ACTIVE,92,LOW,85,100,85,92,0,0.08,0.98,2025-12-31
+SUP000079,Delta Precision Enterprises,Automotive,Vietnam,Ho Chi Minh City,6,136,Tier-2,High Risk,Operationally Weak,UNDER_REVIEW,41,HIGH,38,28,33,59,0,0.84,0.87,2025-12-31
+SUP000080,Falcon Steel Industries,Steel,India,Pune,1,178,Tier-1,Growing,Fast Growing Startup,ACTIVE,95,LOW,96,100,86,94,0,0.05,0.89,2025-12-31
+SUP000081,Vertex Labs Pvt Ltd,Chemical,Japan,Yokohama,12,294,Tier-2,Declining,Financially Fragile,ACTIVE,70,MEDIUM,38,100,69,79,30,0.55,0.86,2025-12-31
+SUP000082,Phoenix Therapeutics Group,Pharmaceutical,Japan,Yokohama,14,1048,Tier-3,Stable,Logistics Sensitive,ACTIVE,93,LOW,85,100,89,98,0,0.07,0.82,2025-12-31
+SUP000083,Phoenix Steel Pvt Ltd,Steel,India,Chennai,12,699,Tier-3,Stable,Customer Centric,ACTIVE,92,LOW,88,100,85,90,0,0.08,0.93,2025-12-31
+SUP000084,Falcon Precision Technologies,Automotive,India,Chennai,15,1896,Tier-1,Premium,Enterprise Leader,ACTIVE,97,LOW,94,100,95,95,0,0.03,0.83,2025-12-31
+SUP000085,Omega Packaging Group,Packaging,Japan,Osaka,44,302,Tier-1,Stable,Legacy Manufacturer,ACTIVE,92,LOW,85,100,84,94,0,0.08,0.82,2025-12-31
+SUP000086,Zenith Alloys Technologies,Steel,China,Wuhan,8,1251,Tier-2,Growing,Innovation Driven,ACTIVE,92,LOW,92,100,96,76,0,0.08,0.87,2025-12-31
+SUP000087,Nova Alloys Group,Steel,Germany,Frankfurt,43,1901,Tier-2,Stable,Legacy Manufacturer,ACTIVE,90,LOW,83,100,85,76,0,0.1,0.81,2025-12-31
+SUP000088,Prime Electronics Group,Semiconductor,Germany,Stuttgart,15,730,Tier-3,Stable,Compliance Champion,ACTIVE,94,LOW,90,100,88,99,0,0.06,0.91,2025-12-31
+SUP000089,Apex Power Corporation,Battery,India,Hyderabad,24,2124,Tier-1,Premium,Innovation Driven,ACTIVE,97,LOW,96,100,96,93,0,0.03,0.92,2025-12-31
+SUP000090,Global Precision Pvt Ltd,Automotive,Germany,Stuttgart,2,159,Tier-3,New,Innovation Driven,ACTIVE,89,LOW,82,100,95,73,15,0.11,0.98,2025-12-31
+SUP000091,Phoenix Steel Enterprises,Steel,Germany,Stuttgart,15,508,Tier-2,Stable,Logistics Sensitive,ACTIVE,80,LOW,90,47,87,94,0,0.2,0.84,2025-12-31
+SUP000092,Horizon Weaving Technologies,Textile,China,Wuhan,2,52,Tier-3,New,Logistics Sensitive,ACTIVE,84,LOW,66,100,82,80,0,0.31,0.79,2025-12-31
+SUP000093,Sterling Precision Enterprises,Automotive,India,Pune,2,235,Tier-1,Growing,Fast Growing Startup,ACTIVE,95,LOW,92,100,91,96,0,0.05,0.83,2025-12-31
+SUP000094,Horizon Components Pvt Ltd,Automotive,Japan,Nagoya,28,4509,Tier-1,Premium,Quality Focused,ACTIVE,97,LOW,96,100,96,95,0,0.03,0.82,2025-12-31
+SUP000095,Horizon Containers Technologies,Packaging,India,Hyderabad,14,355,Tier-2,High Risk,Financially Fragile,UNDER_REVIEW,61,MEDIUM,32,100,35,72,0,0.64,0.91,2025-12-31
+SUP000096,Horizon Components Enterprises,Automotive,Japan,Yokohama,15,1199,Tier-2,Stable,Compliance Champion,ACTIVE,94,LOW,90,100,87,100,0,0.06,0.84,2025-12-31
+SUP000097,Sterling Freight Technologies,Logistics,USA,Chicago,1,293,Tier-1,Growing,Fast Growing Startup,ACTIVE,91,LOW,85,100,86,81,0,0.09,0.84,2025-12-31
+SUP000098,Omega Freight Industries,Logistics,USA,Chicago,1,239,Tier-3,New,Fast Growing Startup,ACTIVE,87,LOW,80,100,84,62,0,0.13,0.94,2025-12-31
+SUP000099,Titan Micro Corporation,Semiconductor,USA,Houston,20,732,Tier-2,Stable,Compliance Champion,ACTIVE,93,LOW,85,100,87,100,0,0.07,0.85,2025-12-31
+SUP000100,Omega Containers Corporation,Packaging,China,Shenzhen,39,976,Tier-2,Declining,Legacy Manufacturer,ACTIVE,82,LOW,68,100,81,77,0,0.18,0.81,2025-12-31
+SUP000101,Titan Precision Pvt Ltd,Automotive,South Korea,Seoul,8,1163,Tier-3,Stable,Customer Centric,ACTIVE,91,LOW,83,100,84,93,0,0.09,0.97,2025-12-31
+SUP000102,Omega Semiconductors Technologies,Semiconductor,South Korea,Incheon,21,1744,Tier-1,Stable,Legacy Manufacturer,ACTIVE,93,LOW,90,100,84,96,0,0.07,0.84,2025-12-31
+SUP000103,Orion Textiles Technologies,Textile,India,Hyderabad,12,688,Tier-2,Stable,Compliance Champion,ACTIVE,92,LOW,83,100,87,100,0,0.08,0.94,2025-12-31
+SUP000104,Nova Bio Technologies,Pharmaceutical,Germany,Ludwigshafen,16,1152,Tier-2,Stable,Cost Efficient,ACTIVE,82,LOW,96,47,86,94,0,0.18,0.91,2025-12-31
+SUP000105,Zenith Semiconductors Corporation,Semiconductor,India,Chennai,18,535,Tier-2,Declining,Legacy Manufacturer,ACTIVE,79,LOW,52,100,79,85,0,0.46,0.88,2025-12-31
+SUP000106,Apex Express Enterprises,Logistics,USA,Detroit,16,2624,Tier-1,Premium,Quality Focused,ACTIVE,98,LOW,94,100,97,100,0,0.02,0.94,2025-12-31
+SUP000107,Zenith Motors Technologies,Automotive,China,Shenzhen,17,408,Tier-3,Stable,Compliance Champion,ACTIVE,94,LOW,90,100,84,100,0,0.06,0.82,2025-12-31
+SUP000108,Apex Electronics Enterprises,Semiconductor,India,Bangalore,9,1011,Tier-2,Growing,Customer Centric,ACTIVE,90,LOW,85,100,89,63,0,0.1,0.89,2025-12-31
+SUP000109,Omega Batteries Pvt Ltd,Battery,India,Chennai,23,1051,Tier-1,Premium,Customer Centric,ACTIVE,99,LOW,98,100,97,98,0,0.01,0.9,2025-12-31
+SUP000110,Phoenix Motors Group,Automotive,USA,Detroit,19,941,Tier-2,Declining,Financially Fragile,ACTIVE,77,LOW,52,100,74,61,0,0.33,0.79,2025-12-31
+SUP000111,Prime Precision Technologies,Automotive,Vietnam,Hanoi,24,1702,Tier-3,Stable,Cost Efficient,ACTIVE,94,LOW,92,100,85,93,0,0.06,0.82,2025-12-31
+SUP000112,Omega Cartons Technologies,Packaging,Vietnam,Hanoi,2,258,Tier-3,New,Innovation Driven,ACTIVE,88,LOW,73,100,91,79,0,0.12,0.85,2025-12-31
+SUP000113,Omega Semiconductors Corporation,Semiconductor,India,Chennai,12,860,Tier-2,Declining,Operationally Weak,ACTIVE,52,HIGH,42,36,55,72,0,0.73,0.89,2025-12-31
+SUP000114,Global Steel Group,Steel,South Korea,Busan,10,799,Tier-2,Growing,Innovation Driven,ACTIVE,93,LOW,85,100,92,89,0,0.07,0.81,2025-12-31
+SUP000115,Titan Components Corporation,Automotive,China,Shanghai,25,1744,Tier-1,Premium,Enterprise Leader,ACTIVE,97,LOW,94,100,97,93,0,0.03,0.84,2025-12-31
+SUP000116,Delta Motors Technologies,Automotive,Germany,Stuttgart,13,772,Tier-2,Declining,Operationally Weak,ACTIVE,53,HIGH,58,28,66,54,0,0.47,0.92,2025-12-31
+SUP000117,Vertex Bio Industries,Pharmaceutical,China,Wuhan,6,475,Tier-2,Growing,Recovering Supplier,ACTIVE,92,LOW,90,100,88,79,0,0.08,0.91,2025-12-31
+SUP000118,Titan Micro Enterprises,Semiconductor,Vietnam,Da Nang,40,5671,Tier-1,Premium,Market Leader,ACTIVE,98,LOW,98,100,95,99,0,0.02,0.88,2025-12-31
+SUP000119,Delta Precision Corporation,Automotive,South Korea,Daegu,19,827,Tier-2,Stable,Compliance Champion,ACTIVE,94,LOW,90,100,88,99,0,0.06,0.88,2025-12-31
+SUP000120,Phoenix Components Corporation,Automotive,Germany,Munich,2,189,Tier-3,New,Innovation Driven,ACTIVE,93,LOW,82,100,95,92,0,0.07,0.94,2025-12-31
+SUP000121,Phoenix Energy Corporation,Battery,Japan,Tokyo,15,714,Tier-1,Stable,Logistics Sensitive,ACTIVE,90,LOW,83,100,86,77,0,0.1,0.94,2025-12-31
+SUP000122,Falcon Labs Industries,Chemical,South Korea,Incheon,27,4042,Tier-1,Premium,Enterprise Leader,ACTIVE,97,LOW,96,100,92,95,0,0.03,0.97,2025-12-31
+SUP000123,Phoenix Bio Technologies,Pharmaceutical,South Korea,Busan,23,643,Tier-2,Stable,Logistics Sensitive,ACTIVE,92,LOW,83,100,86,96,0,0.08,0.92,2025-12-31
+SUP000124,Titan Micro Industries,Semiconductor,India,Bangalore,14,405,Tier-2,Stable,Cost Efficient,ACTIVE,93,LOW,92,100,88,76,0,0.07,0.83,2025-12-31
+SUP000125,Delta Chemicals Corporation,Chemical,India,Pune,3,27,Tier-3,New,Logistics Sensitive,ACTIVE,83,LOW,61,100,85,78,0,0.32,0.92,2025-12-31
+SUP000126,Phoenix Energy Enterprises,Battery,China,Wuhan,25,311,Tier-2,Stable,Customer Centric,ACTIVE,91,LOW,90,100,85,94,0,0.09,0.87,2025-12-31
+SUP000127,Zenith Batteries Group,Battery,India,Chennai,1,72,Tier-3,New,Logistics Sensitive,ACTIVE,75,LOW,88,36,83,79,0,0.25,0.92,2025-12-31
+SUP000128,Alpha Weaving Group,Textile,Japan,Tokyo,18,1102,Tier-1,Stable,Cost Efficient,ACTIVE,94,LOW,96,100,79,94,0,0.06,0.85,2025-12-31
+SUP000129,Horizon Weaving Pvt Ltd,Textile,South Korea,Seoul,12,4367,Tier-1,Premium,Enterprise Leader,ACTIVE,99,LOW,98,100,96,99,0,0.01,0.93,2025-12-31
+SUP000130,Titan Semiconductors Technologies,Semiconductor,USA,San Jose,1,175,Tier-3,New,Fast Growing Startup,ACTIVE,85,LOW,66,100,86,81,0,0.3,0.81,2025-12-31
+SUP000131,Horizon Synthetics Group,Chemical,China,Shanghai,3,135,Tier-3,New,Logistics Sensitive,ACTIVE,62,MEDIUM,63,28,84,58,0,0.53,0.84,2025-12-31
+SUP000132,Zenith Cartons Pvt Ltd,Packaging,China,Shenzhen,21,1961,Tier-2,Stable,Cost Efficient,ACTIVE,95,LOW,94,100,84,99,0,0.05,0.78,2025-12-31
+SUP000133,Titan Components Enterprises,Automotive,South Korea,Seoul,12,262,Tier-2,High Risk,Crisis Prone,UNDER_REVIEW,46,HIGH,38,28,41,67,0,0.79,0.97,2025-12-31
+SUP000134,Nova Bio Pvt Ltd,Pharmaceutical,Germany,Stuttgart,12,521,Tier-2,Declining,Crisis Prone,ACTIVE,80,LOW,66,100,66,75,0,0.3,0.97,2025-12-31
+SUP000135,Zenith Containers Corporation,Packaging,India,Pune,37,205,Tier-2,Stable,Legacy Manufacturer,ACTIVE,91,LOW,80,100,87,97,0,0.09,0.98,2025-12-31
+SUP000136,Phoenix Therapeutics Pvt Ltd,Pharmaceutical,Germany,Stuttgart,7,774,Tier-2,Growing,Cost Efficient,ACTIVE,96,LOW,98,100,86,96,0,0.04,0.84,2025-12-31
+SUP000137,Apex Power Industries,Battery,China,Guangzhou,6,841,Tier-2,Growing,Cost Efficient,ACTIVE,94,LOW,96,100,87,95,15,0.06,0.9,2025-12-31
+SUP000138,Alpha Chemicals Corporation,Chemical,USA,Houston,12,744,Tier-1,Stable,Compliance Champion,ACTIVE,92,LOW,82,100,87,98,0,0.08,0.87,2025-12-31
+SUP000139,Vertex Labs Corporation,Chemical,Germany,Frankfurt,3,499,Tier-2,High Risk,Financially Fragile,UNDER_REVIEW,49,HIGH,32,36,39,71,0,0.76,0.81,2025-12-31
+SUP000140,Vertex Motors Technologies,Automotive,India,Pune,20,757,Tier-2,Declining,Operationally Weak,ACTIVE,75,LOW,58,100,58,86,30,0.25,0.85,2025-12-31
+SUP000141,Titan Express Technologies,Logistics,India,Pune,1,33,Tier-2,Growing,Fast Growing Startup,ACTIVE,95,LOW,94,100,86,93,0,0.05,0.92,2025-12-31
+SUP000142,Alpha Semiconductors Group,Semiconductor,Germany,Frankfurt,16,1766,Tier-3,Stable,Cost Efficient,ACTIVE,96,LOW,96,100,89,96,0,0.04,0.94,2025-12-31
+SUP000143,Horizon Apparel Group,Textile,India,Pune,13,769,Tier-3,Stable,Customer Centric,ACTIVE,91,LOW,83,100,85,93,0,0.09,0.79,2025-12-31
+SUP000144,Horizon Foundry Corporation,Steel,Germany,Ludwigshafen,7,531,Tier-2,High Risk,Crisis Prone,UNDER_REVIEW,46,HIGH,38,36,29,49,0,0.79,0.79,2025-12-31
+SUP000145,Horizon Precision Group,Automotive,South Korea,Busan,13,1956,Tier-2,Stable,Cost Efficient,ACTIVE,93,LOW,94,100,87,75,0,0.07,0.84,2025-12-31
+SUP000146,Alpha Foundry Pvt Ltd,Steel,Vietnam,Hanoi,20,1556,Tier-3,Stable,Cost Efficient,ACTIVE,93,LOW,94,100,85,80,0,0.07,0.96,2025-12-31
+SUP000147,Apex Batteries Technologies,Battery,India,Pune,20,2033,Tier-1,Premium,Enterprise Leader,ACTIVE,98,LOW,96,100,96,98,0,0.02,0.84,2025-12-31
+SUP000148,Alpha Motors Technologies,Automotive,India,Bangalore,10,1411,Tier-2,Growing,Cost Efficient,ACTIVE,93,LOW,96,100,88,61,0,0.07,0.89,2025-12-31
+SUP000149,Vertex Precision Group,Automotive,India,Pune,14,687,Tier-2,High Risk,Operationally Weak,UNDER_REVIEW,43,HIGH,38,28,34,74,0,0.82,0.96,2025-12-31
+SUP000150,Sterling Power Group,Battery,India,Pune,2,167,Tier-1,Growing,Fast Growing Startup,ACTIVE,94,LOW,96,100,85,97,18,0.06,0.79,2025-12-31
+SUP000151,Alpha Precision Group,Automotive,India,Pune,3,179,Tier-1,Growing,Fast Growing Startup,ACTIVE,92,LOW,92,100,85,77,0,0.08,0.88,2025-12-31
+SUP000152,Vertex Precision Corporation,Automotive,China,Shanghai,4,760,Tier-2,Growing,Innovation Driven,ACTIVE,96,LOW,92,100,96,96,0,0.04,0.87,2025-12-31
+SUP000153,Vertex Chemicals Group,Chemical,Japan,Osaka,25,2701,Tier-1,Premium,Customer Centric,ACTIVE,97,LOW,98,100,93,93,0,0.03,0.82,2025-12-31
+SUP000154,Sterling Power Technologies,Battery,India,Hyderabad,5,442,Tier-2,High Risk,Crisis Prone,UNDER_REVIEW,59,HIGH,36,100,28,51,0,0.66,0.9,2025-12-31
+SUP000155,Falcon Components Corporation,Automotive,India,Bangalore,6,121,Tier-2,High Risk,Operationally Weak,UNDER_REVIEW,40,HIGH,36,22,33,58,0,0.85,0.86,2025-12-31
+SUP000156,Zenith Precision Group,Automotive,India,Hyderabad,8,1880,Tier-2,Stable,Logistics Sensitive,ACTIVE,89,LOW,87,100,85,56,0,0.11,0.8,2025-12-31
+SUP000157,Global Batteries Technologies,Battery,China,Wuhan,25,1114,Tier-2,Stable,Customer Centric,ACTIVE,92,LOW,85,100,88,92,0,0.08,0.9,2025-12-31
+SUP000158,Titan Precision Industries,Automotive,India,Chennai,42,1132,Tier-2,Declining,Legacy Manufacturer,ACTIVE,74,MEDIUM,42,100,72,74,0,0.51,0.83,2025-12-31
+SUP000159,Global Labs Group,Chemical,China,Wuhan,9,778,Tier-1,Growing,Innovation Driven,ACTIVE,96,LOW,92,100,96,97,0,0.04,0.95,2025-12-31
+SUP000160,Alpha Chemicals Technologies,Chemical,India,Bangalore,5,1090,Tier-2,Growing,Innovation Driven,ACTIVE,94,LOW,88,100,95,92,0,0.06,0.98,2025-12-31
+SUP000161,Alpha Precision Industries,Automotive,India,Chennai,2,289,Tier-1,Growing,Fast Growing Startup,ACTIVE,91,LOW,88,100,87,77,0,0.09,0.89,2025-12-31
+SUP000162,Vertex Components Corporation,Automotive,South Korea,Daegu,12,1983,Tier-1,Stable,Customer Centric,ACTIVE,89,LOW,81,100,86,74,0,0.11,0.82,2025-12-31
+SUP000163,Omega Freight Enterprises,Logistics,China,Wuhan,12,3661,Tier-1,Premium,Innovation Driven,ACTIVE,98,LOW,96,100,96,98,0,0.02,0.85,2025-12-31
+SUP000164,Zenith Chemicals Industries,Chemical,Japan,Nagoya,16,848,Tier-3,Stable,Legacy Manufacturer,ACTIVE,89,LOW,85,100,88,62,0,0.11,0.95,2025-12-31
+SUP000165,Nova Electronics Corporation,Semiconductor,China,Shenzhen,10,665,Tier-2,Stable,Logistics Sensitive,ACTIVE,92,LOW,88,100,86,89,0,0.08,0.84,2025-12-31
+SUP000166,Global Micro Group,Semiconductor,Vietnam,Da Nang,24,294,Tier-1,Stable,Legacy Manufacturer,ACTIVE,93,LOW,83,100,90,100,0,0.07,0.92,2025-12-31
+SUP000167,Apex Precision Group,Automotive,India,Hyderabad,1,107,Tier-1,Growing,Fast Growing Startup,ACTIVE,94,LOW,88,100,88,97,0,0.06,0.96,2025-12-31
+SUP000168,Vertex Components Enterprises,Automotive,India,Pune,5,1319,Tier-1,Growing,Recovering Supplier,ACTIVE,94,LOW,88,100,90,100,0,0.06,0.82,2025-12-31
+SUP000169,Orion Precision Industries,Automotive,China,Shenzhen,22,1847,Tier-2,Stable,Compliance Champion,ACTIVE,94,LOW,90,100,84,99,0,0.06,0.88,2025-12-31
+SUP000170,Zenith Components Enterprises,Automotive,China,Wuhan,2,246,Tier-3,New,Logistics Sensitive,ACTIVE,90,LOW,85,100,86,77,0,0.1,0.83,2025-12-31
+SUP000171,Titan Containers Group,Packaging,India,Pune,10,812,Tier-2,Growing,Cost Efficient,ACTIVE,97,LOW,96,100,91,100,0,0.03,0.87,2025-12-31
+SUP000172,Global Apparel Corporation,Textile,Germany,Munich,20,685,Tier-3,Stable,Cost Efficient,ACTIVE,95,LOW,96,100,84,94,0,0.05,0.78,2025-12-31
+SUP000173,Alpha Express Enterprises,Logistics,India,Pune,20,244,Tier-2,Stable,Cost Efficient,ACTIVE,95,LOW,98,100,84,84,0,0.05,0.96,2025-12-31
+SUP000174,Zenith Synthetics Industries,Chemical,India,Hyderabad,7,1317,Tier-1,Growing,Cost Efficient,ACTIVE,95,LOW,94,100,87,92,0,0.05,0.89,2025-12-31
+SUP000175,Sterling Electronics Enterprises,Semiconductor,Germany,Ludwigshafen,5,813,Tier-1,Growing,Innovation Driven,ACTIVE,95,LOW,92,100,96,83,0,0.05,0.96,2025-12-31
+SUP000176,Global Labs Industries,Chemical,India,Pune,33,832,Tier-1,Stable,Legacy Manufacturer,ACTIVE,95,LOW,94,100,85,96,0,0.05,0.83,2025-12-31
+SUP000177,Horizon Motors Industries,Automotive,Vietnam,Da Nang,18,804,Tier-3,Stable,Customer Centric,ACTIVE,92,LOW,85,100,87,94,0,0.08,0.95,2025-12-31
+SUP000178,Delta Electronics Corporation,Semiconductor,Japan,Osaka,16,1304,Tier-2,Declining,Operationally Weak,ACTIVE,82,LOW,66,100,66,93,0,0.28,0.89,2025-12-31
+SUP000179,Phoenix Foundry Pvt Ltd,Steel,China,Wuhan,23,726,Tier-2,Stable,Compliance Champion,ACTIVE,93,LOW,87,100,85,100,0,0.07,0.91,2025-12-31
+SUP000180,Omega Cartons Enterprises,Packaging,Vietnam,Ho Chi Minh City,5,454,Tier-1,Growing,Customer Centric,ACTIVE,94,LOW,85,100,94,94,0,0.06,0.93,2025-12-31
+SUP000181,Global Textiles Group,Textile,India,Pune,27,2627,Tier-1,Premium,Customer Centric,ACTIVE,98,LOW,96,100,96,100,0,0.02,0.97,2025-12-31
+SUP000182,Global Labs Enterprises,Chemical,USA,Houston,4,841,Tier-2,Growing,Customer Centric,ACTIVE,93,LOW,92,100,90,93,15,0.07,0.83,2025-12-31
+SUP000183,Apex Electronics Industries,Semiconductor,India,Chennai,9,1497,Tier-2,Growing,Customer Centric,ACTIVE,93,LOW,92,100,88,83,0,0.07,0.78,2025-12-31
+SUP000184,Sterling Power Industries,Battery,China,Shenzhen,25,251,Tier-2,Stable,Compliance Champion,ACTIVE,92,LOW,81,100,91,97,0,0.08,0.84,2025-12-31
+SUP000185,Prime Alloys Group,Steel,USA,Chicago,22,1501,Tier-3,Stable,Cost Efficient,ACTIVE,93,LOW,94,100,84,77,0,0.07,0.93,2025-12-31
+SUP000186,Alpha Foundry Group,Steel,India,Pune,6,486,Tier-2,Declining,Operationally Weak,ACTIVE,79,LOW,61,100,62,87,0,0.21,0.85,2025-12-31
+SUP000187,Nova Micro Group,Semiconductor,South Korea,Busan,15,399,Tier-3,Stable,Logistics Sensitive,ACTIVE,93,LOW,85,100,87,95,0,0.07,0.84,2025-12-31
+SUP000188,Sterling Weaving Enterprises,Textile,Germany,Ludwigshafen,9,1406,Tier-1,Growing,Recovering Supplier,ACTIVE,78,LOW,85,42,87,93,0,0.22,0.95,2025-12-31
+SUP000189,Alpha Power Corporation,Battery,India,Hyderabad,9,1302,Tier-2,Growing,Customer Centric,ACTIVE,92,LOW,85,100,86,90,0,0.08,0.92,2025-12-31
+SUP000190,Titan Batteries Pvt Ltd,Battery,China,Shanghai,9,504,Tier-2,High Risk,Operationally Weak,UNDER_REVIEW,60,MEDIUM,38,100,32,49,25,0.65,0.95,2025-12-31
+SUP000191,Horizon Components Industries,Automotive,India,Pune,8,1415,Tier-1,Growing,Customer Centric,ACTIVE,94,LOW,92,100,90,94,10,0.06,0.85,2025-12-31
+SUP000192,Zenith Motors Pvt Ltd,Automotive,Germany,Munich,36,1131,Tier-2,Declining,Legacy Manufacturer,ACTIVE,62,MEDIUM,58,36,79,53,0,0.38,0.9,2025-12-31
+SUP000193,Zenith Semiconductors Industries,Semiconductor,USA,Houston,5,798,Tier-1,Growing,Customer Centric,ACTIVE,91,LOW,89,100,90,58,0,0.09,0.86,2025-12-31
+SUP000194,Prime Motors Industries,Automotive,China,Shanghai,5,502,Tier-2,Declining,Financially Fragile,ACTIVE,73,MEDIUM,38,100,80,57,0,0.52,0.97,2025-12-31
+SUP000195,Orion Semiconductors Industries,Semiconductor,Japan,Tokyo,8,557,Tier-2,Declining,Operationally Weak,ACTIVE,71,MEDIUM,42,100,69,74,0,0.54,0.96,2025-12-31
+SUP000196,Prime Energy Industries,Battery,China,Wuhan,1,28,Tier-2,Growing,Fast Growing Startup,ACTIVE,94,LOW,92,100,85,94,0,0.06,0.95,2025-12-31
+SUP000197,Apex Components Group,Automotive,South Korea,Busan,11,1277,Tier-3,Stable,Cost Efficient,ACTIVE,94,LOW,92,100,85,95,0,0.06,0.98,2025-12-31
+SUP000198,Delta Steel Technologies,Steel,Vietnam,Da Nang,4,1351,Tier-2,Growing,Cost Efficient,ACTIVE,96,LOW,96,100,87,96,0,0.04,0.84,2025-12-31
+SUP000199,Prime Synthetics Enterprises,Chemical,Germany,Ludwigshafen,26,3978,Tier-1,Premium,Compliance Champion,ACTIVE,97,LOW,96,100,92,94,0,0.03,0.97,2025-12-31
+SUP000200,Omega Weaving Group,Textile,Germany,Ludwigshafen,20,324,Tier-2,Declining,Crisis Prone,ACTIVE,55,HIGH,38,42,46,86,0,0.7,0.84,2025-12-31

@@ -1,0 +1,556 @@
+news_id,supplier_id,title,severity,impact_score,date,month
+EVT_SUP000001_05,SUP000001,IT Operations Cyber Security Incident near operations hub,HIGH,20,2021-05-05,Month_05
+EVT_SUP000001_06,SUP000001,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2021-06-22,Month_06
+EVT_SUP000001_08,SUP000001,IT Operations Cyber Security Incident near operations hub,HIGH,20,2021-08-10,Month_08
+EVT_SUP000001_30,SUP000001,Factory Fire Incidents near operations hub,CRITICAL,30,2023-06-10,Month_30
+EVT_SUP000001_51,SUP000001,Regional Port Congestion delays near operations hub,MEDIUM,10,2025-03-23,Month_51
+EVT_SUP000003_51,SUP000003,IT Operations Cyber Security Incident near operations hub,HIGH,20,2025-03-21,Month_51
+EVT_SUP000004_23,SUP000004,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2022-11-23,Month_23
+EVT_SUP000004_59,SUP000004,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2025-11-05,Month_59
+EVT_SUP000005_26,SUP000005,Factory Fire Incidents near operations hub,CRITICAL,30,2023-02-09,Month_26
+EVT_SUP000006_10,SUP000006,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2021-10-21,Month_10
+EVT_SUP000006_36,SUP000006,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2023-12-12,Month_36
+EVT_SUP000006_50,SUP000006,Local Power Grid Failures near operations hub,MEDIUM,12,2025-02-12,Month_50
+EVT_SUP000007_25,SUP000007,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2023-01-25,Month_25
+EVT_SUP000007_52,SUP000007,Labor Union Strike near operations hub,HIGH,20,2025-04-20,Month_52
+EVT_SUP000007_53,SUP000007,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2025-05-18,Month_53
+EVT_SUP000008_50,SUP000008,IT Operations Cyber Security Incident near operations hub,HIGH,20,2025-02-09,Month_50
+EVT_SUP000008_60,SUP000008,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2025-12-09,Month_60
+EVT_SUP000009_29,SUP000009,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2023-05-08,Month_29
+EVT_SUP000009_31,SUP000009,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2023-07-06,Month_31
+EVT_SUP000009_35,SUP000009,Local Power Grid Failures near operations hub,MEDIUM,12,2023-11-09,Month_35
+EVT_SUP000010_21,SUP000010,Regional Port Congestion delays near operations hub,MEDIUM,10,2022-09-21,Month_21
+EVT_SUP000010_38,SUP000010,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2024-02-14,Month_38
+EVT_SUP000010_55,SUP000010,Labor Union Strike near operations hub,HIGH,20,2025-07-16,Month_55
+EVT_SUP000012_33,SUP000012,Local Power Grid Failures near operations hub,MEDIUM,12,2023-09-18,Month_33
+EVT_SUP000013_26,SUP000013,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2023-02-13,Month_26
+EVT_SUP000016_02,SUP000016,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2021-02-13,Month_02
+EVT_SUP000016_23,SUP000016,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2022-11-24,Month_23
+EVT_SUP000016_30,SUP000016,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2023-06-06,Month_30
+EVT_SUP000016_32,SUP000016,Local Power Grid Failures near operations hub,MEDIUM,12,2023-08-22,Month_32
+EVT_SUP000016_36,SUP000016,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2023-12-11,Month_36
+EVT_SUP000016_50,SUP000016,IT Operations Cyber Security Incident near operations hub,HIGH,20,2025-02-19,Month_50
+EVT_SUP000017_30,SUP000017,IT Operations Cyber Security Incident near operations hub,HIGH,20,2023-06-22,Month_30
+EVT_SUP000017_48,SUP000017,Regional Port Congestion delays near operations hub,MEDIUM,10,2024-12-16,Month_48
+EVT_SUP000018_16,SUP000018,Local Power Grid Failures near operations hub,MEDIUM,12,2022-04-23,Month_16
+EVT_SUP000018_32,SUP000018,Local Power Grid Failures near operations hub,MEDIUM,12,2023-08-18,Month_32
+EVT_SUP000018_44,SUP000018,Labor Union Strike near operations hub,HIGH,20,2024-08-08,Month_44
+EVT_SUP000019_07,SUP000019,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2021-07-21,Month_07
+EVT_SUP000019_45,SUP000019,Factory Fire Incidents near operations hub,CRITICAL,30,2024-09-13,Month_45
+EVT_SUP000019_51,SUP000019,Local Power Grid Failures near operations hub,MEDIUM,12,2025-03-16,Month_51
+EVT_SUP000019_55,SUP000019,Labor Union Strike near operations hub,HIGH,20,2025-07-20,Month_55
+EVT_SUP000020_34,SUP000020,IT Operations Cyber Security Incident near operations hub,HIGH,20,2023-10-17,Month_34
+EVT_SUP000021_54,SUP000021,IT Operations Cyber Security Incident near operations hub,HIGH,20,2025-06-10,Month_54
+EVT_SUP000022_14,SUP000022,Regional Port Congestion delays near operations hub,MEDIUM,10,2022-02-09,Month_14
+EVT_SUP000022_21,SUP000022,Local Power Grid Failures near operations hub,MEDIUM,12,2022-09-05,Month_21
+EVT_SUP000022_23,SUP000022,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2022-11-23,Month_23
+EVT_SUP000022_24,SUP000022,Regional Port Congestion delays near operations hub,MEDIUM,10,2022-12-25,Month_24
+EVT_SUP000022_30,SUP000022,Factory Fire Incidents near operations hub,CRITICAL,30,2023-06-25,Month_30
+EVT_SUP000022_31,SUP000022,Local Power Grid Failures near operations hub,MEDIUM,12,2023-07-18,Month_31
+EVT_SUP000022_59,SUP000022,Local Power Grid Failures near operations hub,MEDIUM,12,2025-11-17,Month_59
+EVT_SUP000023_01,SUP000023,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2021-01-12,Month_01
+EVT_SUP000023_16,SUP000023,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2022-04-15,Month_16
+EVT_SUP000024_17,SUP000024,Local Power Grid Failures near operations hub,MEDIUM,12,2022-05-09,Month_17
+EVT_SUP000024_33,SUP000024,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2023-09-20,Month_33
+EVT_SUP000024_38,SUP000024,Factory Fire Incidents near operations hub,CRITICAL,30,2024-02-16,Month_38
+EVT_SUP000024_39,SUP000024,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2024-03-22,Month_39
+EVT_SUP000024_41,SUP000024,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2024-05-14,Month_41
+EVT_SUP000024_53,SUP000024,Local Power Grid Failures near operations hub,MEDIUM,12,2025-05-24,Month_53
+EVT_SUP000026_20,SUP000026,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2022-08-14,Month_20
+EVT_SUP000027_55,SUP000027,Factory Fire Incidents near operations hub,CRITICAL,30,2025-07-20,Month_55
+EVT_SUP000028_37,SUP000028,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2024-01-07,Month_37
+EVT_SUP000028_58,SUP000028,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2025-10-08,Month_58
+EVT_SUP000029_55,SUP000029,Factory Fire Incidents near operations hub,CRITICAL,30,2025-07-11,Month_55
+EVT_SUP000029_60,SUP000029,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2025-12-23,Month_60
+EVT_SUP000030_32,SUP000030,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2023-08-19,Month_32
+EVT_SUP000030_39,SUP000030,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2024-03-17,Month_39
+EVT_SUP000030_45,SUP000030,Local Power Grid Failures near operations hub,MEDIUM,12,2024-09-15,Month_45
+EVT_SUP000030_55,SUP000030,IT Operations Cyber Security Incident near operations hub,HIGH,20,2025-07-13,Month_55
+EVT_SUP000031_28,SUP000031,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2023-04-25,Month_28
+EVT_SUP000031_29,SUP000031,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2023-05-16,Month_29
+EVT_SUP000031_30,SUP000031,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2023-06-23,Month_30
+EVT_SUP000031_43,SUP000031,Local Power Grid Failures near operations hub,MEDIUM,12,2024-07-23,Month_43
+EVT_SUP000032_03,SUP000032,Factory Fire Incidents near operations hub,CRITICAL,30,2021-03-09,Month_03
+EVT_SUP000032_09,SUP000032,Local Power Grid Failures near operations hub,MEDIUM,12,2021-09-09,Month_09
+EVT_SUP000032_11,SUP000032,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2021-11-10,Month_11
+EVT_SUP000032_12,SUP000032,Labor Union Strike near operations hub,HIGH,20,2021-12-08,Month_12
+EVT_SUP000032_25,SUP000032,Factory Fire Incidents near operations hub,CRITICAL,30,2023-01-08,Month_25
+EVT_SUP000032_28,SUP000032,Regional Port Congestion delays near operations hub,MEDIUM,10,2023-04-24,Month_28
+EVT_SUP000032_29,SUP000032,Local Power Grid Failures near operations hub,MEDIUM,12,2023-05-06,Month_29
+EVT_SUP000032_31,SUP000032,Labor Union Strike near operations hub,HIGH,20,2023-07-17,Month_31
+EVT_SUP000032_32,SUP000032,Regional Port Congestion delays near operations hub,MEDIUM,10,2023-08-22,Month_32
+EVT_SUP000032_33,SUP000032,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2023-09-05,Month_33
+EVT_SUP000032_34,SUP000032,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2023-10-15,Month_34
+EVT_SUP000032_39,SUP000032,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2024-03-10,Month_39
+EVT_SUP000032_40,SUP000032,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2024-04-21,Month_40
+EVT_SUP000032_41,SUP000032,Local Power Grid Failures near operations hub,MEDIUM,12,2024-05-06,Month_41
+EVT_SUP000032_46,SUP000032,Regional Port Congestion delays near operations hub,MEDIUM,10,2024-10-10,Month_46
+EVT_SUP000032_53,SUP000032,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2025-05-05,Month_53
+EVT_SUP000032_56,SUP000032,Factory Fire Incidents near operations hub,CRITICAL,30,2025-08-19,Month_56
+EVT_SUP000032_59,SUP000032,Local Power Grid Failures near operations hub,MEDIUM,12,2025-11-12,Month_59
+EVT_SUP000033_14,SUP000033,Local Power Grid Failures near operations hub,MEDIUM,12,2022-02-20,Month_14
+EVT_SUP000033_22,SUP000033,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2022-10-25,Month_22
+EVT_SUP000033_29,SUP000033,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2023-05-12,Month_29
+EVT_SUP000033_42,SUP000033,IT Operations Cyber Security Incident near operations hub,HIGH,20,2024-06-11,Month_42
+EVT_SUP000034_51,SUP000034,Local Power Grid Failures near operations hub,MEDIUM,12,2025-03-25,Month_51
+EVT_SUP000035_24,SUP000035,Labor Union Strike near operations hub,HIGH,20,2022-12-05,Month_24
+EVT_SUP000037_04,SUP000037,IT Operations Cyber Security Incident near operations hub,HIGH,20,2021-04-18,Month_04
+EVT_SUP000037_21,SUP000037,Regional Port Congestion delays near operations hub,MEDIUM,10,2022-09-20,Month_21
+EVT_SUP000037_34,SUP000037,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2023-10-22,Month_34
+EVT_SUP000038_03,SUP000038,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2021-03-25,Month_03
+EVT_SUP000038_05,SUP000038,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2021-05-18,Month_05
+EVT_SUP000038_13,SUP000038,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2022-01-24,Month_13
+EVT_SUP000038_21,SUP000038,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2022-09-10,Month_21
+EVT_SUP000038_23,SUP000038,Labor Union Strike near operations hub,HIGH,20,2022-11-21,Month_23
+EVT_SUP000038_26,SUP000038,Labor Union Strike near operations hub,HIGH,20,2023-02-16,Month_26
+EVT_SUP000038_44,SUP000038,Local Power Grid Failures near operations hub,MEDIUM,12,2024-08-08,Month_44
+EVT_SUP000038_58,SUP000038,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2025-10-25,Month_58
+EVT_SUP000039_07,SUP000039,Factory Fire Incidents near operations hub,CRITICAL,30,2021-07-23,Month_07
+EVT_SUP000039_14,SUP000039,Regional Port Congestion delays near operations hub,MEDIUM,10,2022-02-11,Month_14
+EVT_SUP000039_24,SUP000039,Labor Union Strike near operations hub,HIGH,20,2022-12-22,Month_24
+EVT_SUP000039_57,SUP000039,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2025-09-19,Month_57
+EVT_SUP000040_05,SUP000040,Regional Port Congestion delays near operations hub,MEDIUM,10,2021-05-13,Month_05
+EVT_SUP000040_28,SUP000040,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2023-04-12,Month_28
+EVT_SUP000040_38,SUP000040,Factory Fire Incidents near operations hub,CRITICAL,30,2024-02-13,Month_38
+EVT_SUP000041_38,SUP000041,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2024-02-20,Month_38
+EVT_SUP000042_22,SUP000042,Local Power Grid Failures near operations hub,MEDIUM,12,2022-10-25,Month_22
+EVT_SUP000042_58,SUP000042,Labor Union Strike near operations hub,HIGH,20,2025-10-17,Month_58
+EVT_SUP000042_60,SUP000042,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2025-12-05,Month_60
+EVT_SUP000043_16,SUP000043,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2022-04-23,Month_16
+EVT_SUP000043_31,SUP000043,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2023-07-13,Month_31
+EVT_SUP000043_40,SUP000043,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2024-04-17,Month_40
+EVT_SUP000043_59,SUP000043,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2025-11-12,Month_59
+EVT_SUP000044_36,SUP000044,IT Operations Cyber Security Incident near operations hub,HIGH,20,2023-12-16,Month_36
+EVT_SUP000046_01,SUP000046,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2021-01-06,Month_01
+EVT_SUP000046_15,SUP000046,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2022-03-22,Month_15
+EVT_SUP000046_51,SUP000046,Labor Union Strike near operations hub,HIGH,20,2025-03-15,Month_51
+EVT_SUP000047_02,SUP000047,IT Operations Cyber Security Incident near operations hub,HIGH,20,2021-02-23,Month_02
+EVT_SUP000047_06,SUP000047,Local Power Grid Failures near operations hub,MEDIUM,12,2021-06-09,Month_06
+EVT_SUP000047_21,SUP000047,Local Power Grid Failures near operations hub,MEDIUM,12,2022-09-06,Month_21
+EVT_SUP000047_26,SUP000047,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2023-02-09,Month_26
+EVT_SUP000047_28,SUP000047,Local Power Grid Failures near operations hub,MEDIUM,12,2023-04-21,Month_28
+EVT_SUP000047_42,SUP000047,Labor Union Strike near operations hub,HIGH,20,2024-06-20,Month_42
+EVT_SUP000047_55,SUP000047,Local Power Grid Failures near operations hub,MEDIUM,12,2025-07-17,Month_55
+EVT_SUP000049_07,SUP000049,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2021-07-19,Month_07
+EVT_SUP000049_56,SUP000049,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2025-08-20,Month_56
+EVT_SUP000050_09,SUP000050,Labor Union Strike near operations hub,HIGH,20,2021-09-18,Month_09
+EVT_SUP000050_21,SUP000050,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2022-09-06,Month_21
+EVT_SUP000050_33,SUP000050,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2023-09-10,Month_33
+EVT_SUP000050_36,SUP000050,Local Power Grid Failures near operations hub,MEDIUM,12,2023-12-08,Month_36
+EVT_SUP000050_46,SUP000050,Labor Union Strike near operations hub,HIGH,20,2024-10-16,Month_46
+EVT_SUP000050_50,SUP000050,Local Power Grid Failures near operations hub,MEDIUM,12,2025-02-13,Month_50
+EVT_SUP000050_59,SUP000050,Factory Fire Incidents near operations hub,CRITICAL,30,2025-11-07,Month_59
+EVT_SUP000052_13,SUP000052,Regional Port Congestion delays near operations hub,MEDIUM,10,2022-01-15,Month_13
+EVT_SUP000053_16,SUP000053,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2022-04-09,Month_16
+EVT_SUP000053_41,SUP000053,Labor Union Strike near operations hub,HIGH,20,2024-05-12,Month_41
+EVT_SUP000053_47,SUP000053,Labor Union Strike near operations hub,HIGH,20,2024-11-19,Month_47
+EVT_SUP000054_07,SUP000054,Labor Union Strike near operations hub,HIGH,20,2021-07-23,Month_07
+EVT_SUP000054_29,SUP000054,Labor Union Strike near operations hub,HIGH,20,2023-05-20,Month_29
+EVT_SUP000054_42,SUP000054,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2024-06-18,Month_42
+EVT_SUP000054_44,SUP000054,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2024-08-17,Month_44
+EVT_SUP000054_47,SUP000054,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2024-11-12,Month_47
+EVT_SUP000055_02,SUP000055,Factory Fire Incidents near operations hub,CRITICAL,30,2021-02-05,Month_02
+EVT_SUP000055_44,SUP000055,Labor Union Strike near operations hub,HIGH,20,2024-08-25,Month_44
+EVT_SUP000055_60,SUP000055,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2025-12-09,Month_60
+EVT_SUP000057_15,SUP000057,Regional Port Congestion delays near operations hub,MEDIUM,10,2022-03-07,Month_15
+EVT_SUP000057_30,SUP000057,Local Power Grid Failures near operations hub,MEDIUM,12,2023-06-22,Month_30
+EVT_SUP000057_43,SUP000057,Factory Fire Incidents near operations hub,CRITICAL,30,2024-07-24,Month_43
+EVT_SUP000058_17,SUP000058,Local Power Grid Failures near operations hub,MEDIUM,12,2022-05-23,Month_17
+EVT_SUP000058_21,SUP000058,Labor Union Strike near operations hub,HIGH,20,2022-09-12,Month_21
+EVT_SUP000058_42,SUP000058,IT Operations Cyber Security Incident near operations hub,HIGH,20,2024-06-24,Month_42
+EVT_SUP000058_59,SUP000058,IT Operations Cyber Security Incident near operations hub,HIGH,20,2025-11-05,Month_59
+EVT_SUP000059_01,SUP000059,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2021-01-16,Month_01
+EVT_SUP000059_13,SUP000059,Factory Fire Incidents near operations hub,CRITICAL,30,2022-01-13,Month_13
+EVT_SUP000060_21,SUP000060,IT Operations Cyber Security Incident near operations hub,HIGH,20,2022-09-10,Month_21
+EVT_SUP000060_23,SUP000060,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2022-11-18,Month_23
+EVT_SUP000060_26,SUP000060,Factory Fire Incidents near operations hub,CRITICAL,30,2023-02-18,Month_26
+EVT_SUP000060_28,SUP000060,Labor Union Strike near operations hub,HIGH,20,2023-04-16,Month_28
+EVT_SUP000060_37,SUP000060,Factory Fire Incidents near operations hub,CRITICAL,30,2024-01-13,Month_37
+EVT_SUP000060_53,SUP000060,Regional Port Congestion delays near operations hub,MEDIUM,10,2025-05-11,Month_53
+EVT_SUP000061_07,SUP000061,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2021-07-18,Month_07
+EVT_SUP000061_23,SUP000061,Factory Fire Incidents near operations hub,CRITICAL,30,2022-11-11,Month_23
+EVT_SUP000061_24,SUP000061,Regional Port Congestion delays near operations hub,MEDIUM,10,2022-12-11,Month_24
+EVT_SUP000061_25,SUP000061,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2023-01-19,Month_25
+EVT_SUP000061_27,SUP000061,Factory Fire Incidents near operations hub,CRITICAL,30,2023-03-25,Month_27
+EVT_SUP000061_38,SUP000061,IT Operations Cyber Security Incident near operations hub,HIGH,20,2024-02-10,Month_38
+EVT_SUP000061_55,SUP000061,IT Operations Cyber Security Incident near operations hub,HIGH,20,2025-07-15,Month_55
+EVT_SUP000062_38,SUP000062,Factory Fire Incidents near operations hub,CRITICAL,30,2024-02-07,Month_38
+EVT_SUP000063_37,SUP000063,Local Power Grid Failures near operations hub,MEDIUM,12,2024-01-20,Month_37
+EVT_SUP000064_40,SUP000064,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2024-04-05,Month_40
+EVT_SUP000064_47,SUP000064,Regional Port Congestion delays near operations hub,MEDIUM,10,2024-11-25,Month_47
+EVT_SUP000065_35,SUP000065,Local Power Grid Failures near operations hub,MEDIUM,12,2023-11-13,Month_35
+EVT_SUP000065_45,SUP000065,Labor Union Strike near operations hub,HIGH,20,2024-09-23,Month_45
+EVT_SUP000066_40,SUP000066,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2024-04-14,Month_40
+EVT_SUP000066_41,SUP000066,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2024-05-10,Month_41
+EVT_SUP000067_08,SUP000067,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2021-08-11,Month_08
+EVT_SUP000067_50,SUP000067,Factory Fire Incidents near operations hub,CRITICAL,30,2025-02-24,Month_50
+EVT_SUP000067_56,SUP000067,Labor Union Strike near operations hub,HIGH,20,2025-08-20,Month_56
+EVT_SUP000068_05,SUP000068,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2021-05-08,Month_05
+EVT_SUP000068_09,SUP000068,IT Operations Cyber Security Incident near operations hub,HIGH,20,2021-09-07,Month_09
+EVT_SUP000068_14,SUP000068,Regional Port Congestion delays near operations hub,MEDIUM,10,2022-02-06,Month_14
+EVT_SUP000068_15,SUP000068,Local Power Grid Failures near operations hub,MEDIUM,12,2022-03-12,Month_15
+EVT_SUP000068_21,SUP000068,Local Power Grid Failures near operations hub,MEDIUM,12,2022-09-18,Month_21
+EVT_SUP000068_22,SUP000068,IT Operations Cyber Security Incident near operations hub,HIGH,20,2022-10-14,Month_22
+EVT_SUP000068_24,SUP000068,Labor Union Strike near operations hub,HIGH,20,2022-12-09,Month_24
+EVT_SUP000068_34,SUP000068,Factory Fire Incidents near operations hub,CRITICAL,30,2023-10-08,Month_34
+EVT_SUP000068_36,SUP000068,Regional Port Congestion delays near operations hub,MEDIUM,10,2023-12-25,Month_36
+EVT_SUP000068_38,SUP000068,Labor Union Strike near operations hub,HIGH,20,2024-02-11,Month_38
+EVT_SUP000068_40,SUP000068,Local Power Grid Failures near operations hub,MEDIUM,12,2024-04-14,Month_40
+EVT_SUP000068_41,SUP000068,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2024-05-13,Month_41
+EVT_SUP000068_46,SUP000068,Labor Union Strike near operations hub,HIGH,20,2024-10-17,Month_46
+EVT_SUP000068_49,SUP000068,Labor Union Strike near operations hub,HIGH,20,2025-01-07,Month_49
+EVT_SUP000068_51,SUP000068,Labor Union Strike near operations hub,HIGH,20,2025-03-13,Month_51
+EVT_SUP000068_55,SUP000068,Regional Port Congestion delays near operations hub,MEDIUM,10,2025-07-24,Month_55
+EVT_SUP000068_57,SUP000068,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2025-09-11,Month_57
+EVT_SUP000069_16,SUP000069,Labor Union Strike near operations hub,HIGH,20,2022-04-19,Month_16
+EVT_SUP000070_13,SUP000070,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2022-01-11,Month_13
+EVT_SUP000070_38,SUP000070,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2024-02-17,Month_38
+EVT_SUP000070_42,SUP000070,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2024-06-06,Month_42
+EVT_SUP000071_22,SUP000071,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2022-10-14,Month_22
+EVT_SUP000071_30,SUP000071,IT Operations Cyber Security Incident near operations hub,HIGH,20,2023-06-19,Month_30
+EVT_SUP000072_33,SUP000072,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2023-09-19,Month_33
+EVT_SUP000072_41,SUP000072,Regional Port Congestion delays near operations hub,MEDIUM,10,2024-05-19,Month_41
+EVT_SUP000075_30,SUP000075,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2023-06-21,Month_30
+EVT_SUP000076_06,SUP000076,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2021-06-08,Month_06
+EVT_SUP000076_22,SUP000076,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2022-10-15,Month_22
+EVT_SUP000076_25,SUP000076,IT Operations Cyber Security Incident near operations hub,HIGH,20,2023-01-12,Month_25
+EVT_SUP000076_55,SUP000076,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2025-07-14,Month_55
+EVT_SUP000079_16,SUP000079,Regional Port Congestion delays near operations hub,MEDIUM,10,2022-04-23,Month_16
+EVT_SUP000079_29,SUP000079,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2023-05-20,Month_29
+EVT_SUP000079_42,SUP000079,Regional Port Congestion delays near operations hub,MEDIUM,10,2024-06-16,Month_42
+EVT_SUP000079_51,SUP000079,IT Operations Cyber Security Incident near operations hub,HIGH,20,2025-03-11,Month_51
+EVT_SUP000079_52,SUP000079,Factory Fire Incidents near operations hub,CRITICAL,30,2025-04-06,Month_52
+EVT_SUP000079_57,SUP000079,IT Operations Cyber Security Incident near operations hub,HIGH,20,2025-09-17,Month_57
+EVT_SUP000080_24,SUP000080,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2022-12-06,Month_24
+EVT_SUP000081_04,SUP000081,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2021-04-15,Month_04
+EVT_SUP000081_14,SUP000081,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2022-02-09,Month_14
+EVT_SUP000081_15,SUP000081,Labor Union Strike near operations hub,HIGH,20,2022-03-09,Month_15
+EVT_SUP000081_31,SUP000081,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2023-07-21,Month_31
+EVT_SUP000081_33,SUP000081,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2023-09-15,Month_33
+EVT_SUP000081_34,SUP000081,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2023-10-09,Month_34
+EVT_SUP000081_48,SUP000081,Factory Fire Incidents near operations hub,CRITICAL,30,2024-12-17,Month_48
+EVT_SUP000081_60,SUP000081,Factory Fire Incidents near operations hub,CRITICAL,30,2025-12-11,Month_60
+EVT_SUP000083_46,SUP000083,Regional Port Congestion delays near operations hub,MEDIUM,10,2024-10-13,Month_46
+EVT_SUP000083_48,SUP000083,Regional Port Congestion delays near operations hub,MEDIUM,10,2024-12-09,Month_48
+EVT_SUP000083_50,SUP000083,Regional Port Congestion delays near operations hub,MEDIUM,10,2025-02-05,Month_50
+EVT_SUP000083_52,SUP000083,Regional Port Congestion delays near operations hub,MEDIUM,10,2025-04-06,Month_52
+EVT_SUP000085_39,SUP000085,Local Power Grid Failures near operations hub,MEDIUM,12,2024-03-13,Month_39
+EVT_SUP000085_42,SUP000085,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2024-06-12,Month_42
+EVT_SUP000086_13,SUP000086,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2022-01-14,Month_13
+EVT_SUP000086_22,SUP000086,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2022-10-25,Month_22
+EVT_SUP000087_32,SUP000087,Labor Union Strike near operations hub,HIGH,20,2023-08-14,Month_32
+EVT_SUP000087_52,SUP000087,IT Operations Cyber Security Incident near operations hub,HIGH,20,2025-04-22,Month_52
+EVT_SUP000089_01,SUP000089,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2021-01-12,Month_01
+EVT_SUP000090_15,SUP000090,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2022-03-13,Month_15
+EVT_SUP000090_21,SUP000090,Local Power Grid Failures near operations hub,MEDIUM,12,2022-09-09,Month_21
+EVT_SUP000090_29,SUP000090,IT Operations Cyber Security Incident near operations hub,HIGH,20,2023-05-23,Month_29
+EVT_SUP000090_48,SUP000090,IT Operations Cyber Security Incident near operations hub,HIGH,20,2024-12-08,Month_48
+EVT_SUP000090_60,SUP000090,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2025-12-14,Month_60
+EVT_SUP000092_14,SUP000092,Factory Fire Incidents near operations hub,CRITICAL,30,2022-02-17,Month_14
+EVT_SUP000092_16,SUP000092,Regional Port Congestion delays near operations hub,MEDIUM,10,2022-04-09,Month_16
+EVT_SUP000092_44,SUP000092,Regional Port Congestion delays near operations hub,MEDIUM,10,2024-08-22,Month_44
+EVT_SUP000092_47,SUP000092,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2024-11-19,Month_47
+EVT_SUP000093_14,SUP000093,Factory Fire Incidents near operations hub,CRITICAL,30,2022-02-17,Month_14
+EVT_SUP000095_05,SUP000095,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2021-05-09,Month_05
+EVT_SUP000095_07,SUP000095,IT Operations Cyber Security Incident near operations hub,HIGH,20,2021-07-17,Month_07
+EVT_SUP000095_08,SUP000095,Regional Port Congestion delays near operations hub,MEDIUM,10,2021-08-12,Month_08
+EVT_SUP000095_17,SUP000095,Local Power Grid Failures near operations hub,MEDIUM,12,2022-05-18,Month_17
+EVT_SUP000095_21,SUP000095,Regional Port Congestion delays near operations hub,MEDIUM,10,2022-09-14,Month_21
+EVT_SUP000095_22,SUP000095,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2022-10-20,Month_22
+EVT_SUP000095_35,SUP000095,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2023-11-20,Month_35
+EVT_SUP000095_56,SUP000095,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2025-08-15,Month_56
+EVT_SUP000095_58,SUP000095,Factory Fire Incidents near operations hub,CRITICAL,30,2025-10-15,Month_58
+EVT_SUP000096_27,SUP000096,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2023-03-18,Month_27
+EVT_SUP000097_10,SUP000097,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2021-10-07,Month_10
+EVT_SUP000097_18,SUP000097,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2022-06-10,Month_18
+EVT_SUP000097_23,SUP000097,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2022-11-20,Month_23
+EVT_SUP000097_26,SUP000097,Local Power Grid Failures near operations hub,MEDIUM,12,2023-02-13,Month_26
+EVT_SUP000097_32,SUP000097,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2023-08-23,Month_32
+EVT_SUP000097_45,SUP000097,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2024-09-08,Month_45
+EVT_SUP000098_05,SUP000098,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2021-05-15,Month_05
+EVT_SUP000098_10,SUP000098,Regional Port Congestion delays near operations hub,MEDIUM,10,2021-10-12,Month_10
+EVT_SUP000098_23,SUP000098,Factory Fire Incidents near operations hub,CRITICAL,30,2022-11-13,Month_23
+EVT_SUP000098_27,SUP000098,Labor Union Strike near operations hub,HIGH,20,2023-03-22,Month_27
+EVT_SUP000098_30,SUP000098,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2023-06-16,Month_30
+EVT_SUP000098_45,SUP000098,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2024-09-15,Month_45
+EVT_SUP000098_46,SUP000098,Factory Fire Incidents near operations hub,CRITICAL,30,2024-10-07,Month_46
+EVT_SUP000098_57,SUP000098,Labor Union Strike near operations hub,HIGH,20,2025-09-21,Month_57
+EVT_SUP000099_10,SUP000099,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2021-10-10,Month_10
+EVT_SUP000100_20,SUP000100,Regional Port Congestion delays near operations hub,MEDIUM,10,2022-08-21,Month_20
+EVT_SUP000100_42,SUP000100,Labor Union Strike near operations hub,HIGH,20,2024-06-23,Month_42
+EVT_SUP000100_46,SUP000100,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2024-10-06,Month_46
+EVT_SUP000101_50,SUP000101,IT Operations Cyber Security Incident near operations hub,HIGH,20,2025-02-15,Month_50
+EVT_SUP000102_54,SUP000102,IT Operations Cyber Security Incident near operations hub,HIGH,20,2025-06-21,Month_54
+EVT_SUP000105_17,SUP000105,Regional Port Congestion delays near operations hub,MEDIUM,10,2022-05-17,Month_17
+EVT_SUP000105_39,SUP000105,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2024-03-21,Month_39
+EVT_SUP000105_49,SUP000105,IT Operations Cyber Security Incident near operations hub,HIGH,20,2025-01-05,Month_49
+EVT_SUP000105_53,SUP000105,Local Power Grid Failures near operations hub,MEDIUM,12,2025-05-23,Month_53
+EVT_SUP000108_02,SUP000108,IT Operations Cyber Security Incident near operations hub,HIGH,20,2021-02-13,Month_02
+EVT_SUP000108_52,SUP000108,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2025-04-08,Month_52
+EVT_SUP000109_23,SUP000109,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2022-11-22,Month_23
+EVT_SUP000110_07,SUP000110,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2021-07-21,Month_07
+EVT_SUP000110_08,SUP000110,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2021-08-24,Month_08
+EVT_SUP000110_14,SUP000110,Regional Port Congestion delays near operations hub,MEDIUM,10,2022-02-25,Month_14
+EVT_SUP000110_19,SUP000110,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2022-07-22,Month_19
+EVT_SUP000110_58,SUP000110,Factory Fire Incidents near operations hub,CRITICAL,30,2025-10-18,Month_58
+EVT_SUP000112_08,SUP000112,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2021-08-08,Month_08
+EVT_SUP000112_26,SUP000112,Regional Port Congestion delays near operations hub,MEDIUM,10,2023-02-20,Month_26
+EVT_SUP000112_51,SUP000112,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2025-03-08,Month_51
+EVT_SUP000113_13,SUP000113,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2022-01-14,Month_13
+EVT_SUP000113_17,SUP000113,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2022-05-10,Month_17
+EVT_SUP000113_39,SUP000113,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2024-03-20,Month_39
+EVT_SUP000113_56,SUP000113,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2025-08-19,Month_56
+EVT_SUP000114_15,SUP000114,Local Power Grid Failures near operations hub,MEDIUM,12,2022-03-15,Month_15
+EVT_SUP000114_57,SUP000114,Factory Fire Incidents near operations hub,CRITICAL,30,2025-09-22,Month_57
+EVT_SUP000115_28,SUP000115,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2023-04-16,Month_28
+EVT_SUP000116_04,SUP000116,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2021-04-13,Month_04
+EVT_SUP000116_24,SUP000116,Factory Fire Incidents near operations hub,CRITICAL,30,2022-12-21,Month_24
+EVT_SUP000116_28,SUP000116,Regional Port Congestion delays near operations hub,MEDIUM,10,2023-04-25,Month_28
+EVT_SUP000116_30,SUP000116,Regional Port Congestion delays near operations hub,MEDIUM,10,2023-06-15,Month_30
+EVT_SUP000117_24,SUP000117,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2022-12-05,Month_24
+EVT_SUP000117_26,SUP000117,Regional Port Congestion delays near operations hub,MEDIUM,10,2023-02-08,Month_26
+EVT_SUP000119_34,SUP000119,IT Operations Cyber Security Incident near operations hub,HIGH,20,2023-10-21,Month_34
+EVT_SUP000120_38,SUP000120,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2024-02-16,Month_38
+EVT_SUP000120_45,SUP000120,Local Power Grid Failures near operations hub,MEDIUM,12,2024-09-14,Month_45
+EVT_SUP000120_49,SUP000120,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2025-01-05,Month_49
+EVT_SUP000121_08,SUP000121,Local Power Grid Failures near operations hub,MEDIUM,12,2021-08-09,Month_08
+EVT_SUP000121_09,SUP000121,Factory Fire Incidents near operations hub,CRITICAL,30,2021-09-08,Month_09
+EVT_SUP000121_10,SUP000121,IT Operations Cyber Security Incident near operations hub,HIGH,20,2021-10-25,Month_10
+EVT_SUP000123_25,SUP000123,Factory Fire Incidents near operations hub,CRITICAL,30,2023-01-22,Month_25
+EVT_SUP000123_41,SUP000123,Labor Union Strike near operations hub,HIGH,20,2024-05-12,Month_41
+EVT_SUP000124_23,SUP000124,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2022-11-05,Month_23
+EVT_SUP000124_38,SUP000124,Regional Port Congestion delays near operations hub,MEDIUM,10,2024-02-16,Month_38
+EVT_SUP000124_46,SUP000124,Factory Fire Incidents near operations hub,CRITICAL,30,2024-10-18,Month_46
+EVT_SUP000125_16,SUP000125,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2022-04-05,Month_16
+EVT_SUP000125_25,SUP000125,IT Operations Cyber Security Incident near operations hub,HIGH,20,2023-01-24,Month_25
+EVT_SUP000125_34,SUP000125,Labor Union Strike near operations hub,HIGH,20,2023-10-08,Month_34
+EVT_SUP000125_59,SUP000125,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2025-11-17,Month_59
+EVT_SUP000126_14,SUP000126,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2022-02-05,Month_14
+EVT_SUP000126_18,SUP000126,IT Operations Cyber Security Incident near operations hub,HIGH,20,2022-06-19,Month_18
+EVT_SUP000126_43,SUP000126,Regional Port Congestion delays near operations hub,MEDIUM,10,2024-07-18,Month_43
+EVT_SUP000126_53,SUP000126,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2025-05-17,Month_53
+EVT_SUP000126_57,SUP000126,Regional Port Congestion delays near operations hub,MEDIUM,10,2025-09-12,Month_57
+EVT_SUP000127_07,SUP000127,Factory Fire Incidents near operations hub,CRITICAL,30,2021-07-17,Month_07
+EVT_SUP000127_14,SUP000127,Labor Union Strike near operations hub,HIGH,20,2022-02-11,Month_14
+EVT_SUP000127_17,SUP000127,Factory Fire Incidents near operations hub,CRITICAL,30,2022-05-20,Month_17
+EVT_SUP000127_40,SUP000127,Factory Fire Incidents near operations hub,CRITICAL,30,2024-04-17,Month_40
+EVT_SUP000127_53,SUP000127,Local Power Grid Failures near operations hub,MEDIUM,12,2025-05-20,Month_53
+EVT_SUP000127_56,SUP000127,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2025-08-19,Month_56
+EVT_SUP000128_22,SUP000128,Factory Fire Incidents near operations hub,CRITICAL,30,2022-10-08,Month_22
+EVT_SUP000128_46,SUP000128,IT Operations Cyber Security Incident near operations hub,HIGH,20,2024-10-14,Month_46
+EVT_SUP000130_14,SUP000130,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2022-02-09,Month_14
+EVT_SUP000130_20,SUP000130,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2022-08-18,Month_20
+EVT_SUP000130_32,SUP000130,Labor Union Strike near operations hub,HIGH,20,2023-08-19,Month_32
+EVT_SUP000130_33,SUP000130,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2023-09-17,Month_33
+EVT_SUP000130_46,SUP000130,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2024-10-20,Month_46
+EVT_SUP000131_06,SUP000131,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2021-06-14,Month_06
+EVT_SUP000131_10,SUP000131,Local Power Grid Failures near operations hub,MEDIUM,12,2021-10-11,Month_10
+EVT_SUP000131_16,SUP000131,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2022-04-09,Month_16
+EVT_SUP000131_29,SUP000131,Labor Union Strike near operations hub,HIGH,20,2023-05-11,Month_29
+EVT_SUP000133_06,SUP000133,IT Operations Cyber Security Incident near operations hub,HIGH,20,2021-06-15,Month_06
+EVT_SUP000133_08,SUP000133,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2021-08-06,Month_08
+EVT_SUP000133_10,SUP000133,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2021-10-11,Month_10
+EVT_SUP000133_11,SUP000133,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2021-11-18,Month_11
+EVT_SUP000133_13,SUP000133,Factory Fire Incidents near operations hub,CRITICAL,30,2022-01-13,Month_13
+EVT_SUP000133_16,SUP000133,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2022-04-24,Month_16
+EVT_SUP000133_18,SUP000133,Regional Port Congestion delays near operations hub,MEDIUM,10,2022-06-19,Month_18
+EVT_SUP000133_27,SUP000133,Local Power Grid Failures near operations hub,MEDIUM,12,2023-03-15,Month_27
+EVT_SUP000133_38,SUP000133,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2024-02-11,Month_38
+EVT_SUP000133_46,SUP000133,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2024-10-24,Month_46
+EVT_SUP000133_50,SUP000133,IT Operations Cyber Security Incident near operations hub,HIGH,20,2025-02-06,Month_50
+EVT_SUP000133_53,SUP000133,Factory Fire Incidents near operations hub,CRITICAL,30,2025-05-18,Month_53
+EVT_SUP000133_56,SUP000133,Regional Port Congestion delays near operations hub,MEDIUM,10,2025-08-10,Month_56
+EVT_SUP000133_57,SUP000133,Regional Port Congestion delays near operations hub,MEDIUM,10,2025-09-18,Month_57
+EVT_SUP000133_58,SUP000133,Factory Fire Incidents near operations hub,CRITICAL,30,2025-10-24,Month_58
+EVT_SUP000134_02,SUP000134,Factory Fire Incidents near operations hub,CRITICAL,30,2021-02-08,Month_02
+EVT_SUP000134_03,SUP000134,Labor Union Strike near operations hub,HIGH,20,2021-03-05,Month_03
+EVT_SUP000134_11,SUP000134,IT Operations Cyber Security Incident near operations hub,HIGH,20,2021-11-12,Month_11
+EVT_SUP000134_12,SUP000134,Local Power Grid Failures near operations hub,MEDIUM,12,2021-12-17,Month_12
+EVT_SUP000134_17,SUP000134,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2022-05-20,Month_17
+EVT_SUP000134_19,SUP000134,Local Power Grid Failures near operations hub,MEDIUM,12,2022-07-16,Month_19
+EVT_SUP000134_25,SUP000134,IT Operations Cyber Security Incident near operations hub,HIGH,20,2023-01-21,Month_25
+EVT_SUP000134_26,SUP000134,Factory Fire Incidents near operations hub,CRITICAL,30,2023-02-12,Month_26
+EVT_SUP000134_33,SUP000134,Regional Port Congestion delays near operations hub,MEDIUM,10,2023-09-11,Month_33
+EVT_SUP000134_37,SUP000134,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2024-01-10,Month_37
+EVT_SUP000134_40,SUP000134,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2024-04-19,Month_40
+EVT_SUP000134_53,SUP000134,Local Power Grid Failures near operations hub,MEDIUM,12,2025-05-22,Month_53
+EVT_SUP000134_57,SUP000134,Labor Union Strike near operations hub,HIGH,20,2025-09-10,Month_57
+EVT_SUP000135_33,SUP000135,Regional Port Congestion delays near operations hub,MEDIUM,10,2023-09-23,Month_33
+EVT_SUP000135_37,SUP000135,Labor Union Strike near operations hub,HIGH,20,2024-01-19,Month_37
+EVT_SUP000136_17,SUP000136,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2022-05-20,Month_17
+EVT_SUP000137_41,SUP000137,IT Operations Cyber Security Incident near operations hub,HIGH,20,2024-05-11,Month_41
+EVT_SUP000137_60,SUP000137,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2025-12-23,Month_60
+EVT_SUP000138_44,SUP000138,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2024-08-21,Month_44
+EVT_SUP000139_07,SUP000139,IT Operations Cyber Security Incident near operations hub,HIGH,20,2021-07-14,Month_07
+EVT_SUP000139_22,SUP000139,Regional Port Congestion delays near operations hub,MEDIUM,10,2022-10-20,Month_22
+EVT_SUP000139_28,SUP000139,Regional Port Congestion delays near operations hub,MEDIUM,10,2023-04-20,Month_28
+EVT_SUP000139_37,SUP000139,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2024-01-23,Month_37
+EVT_SUP000139_39,SUP000139,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2024-03-08,Month_39
+EVT_SUP000139_44,SUP000139,Factory Fire Incidents near operations hub,CRITICAL,30,2024-08-18,Month_44
+EVT_SUP000139_45,SUP000139,IT Operations Cyber Security Incident near operations hub,HIGH,20,2024-09-10,Month_45
+EVT_SUP000139_47,SUP000139,Labor Union Strike near operations hub,HIGH,20,2024-11-08,Month_47
+EVT_SUP000139_52,SUP000139,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2025-04-14,Month_52
+EVT_SUP000139_53,SUP000139,Factory Fire Incidents near operations hub,CRITICAL,30,2025-05-16,Month_53
+EVT_SUP000140_15,SUP000140,Factory Fire Incidents near operations hub,CRITICAL,30,2022-03-15,Month_15
+EVT_SUP000140_60,SUP000140,Factory Fire Incidents near operations hub,CRITICAL,30,2025-12-21,Month_60
+EVT_SUP000141_10,SUP000141,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2021-10-16,Month_10
+EVT_SUP000142_03,SUP000142,Factory Fire Incidents near operations hub,CRITICAL,30,2021-03-19,Month_03
+EVT_SUP000142_16,SUP000142,Labor Union Strike near operations hub,HIGH,20,2022-04-07,Month_16
+EVT_SUP000144_02,SUP000144,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2021-02-23,Month_02
+EVT_SUP000144_04,SUP000144,Local Power Grid Failures near operations hub,MEDIUM,12,2021-04-07,Month_04
+EVT_SUP000144_05,SUP000144,Factory Fire Incidents near operations hub,CRITICAL,30,2021-05-23,Month_05
+EVT_SUP000144_06,SUP000144,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2021-06-18,Month_06
+EVT_SUP000144_09,SUP000144,Factory Fire Incidents near operations hub,CRITICAL,30,2021-09-06,Month_09
+EVT_SUP000144_10,SUP000144,Labor Union Strike near operations hub,HIGH,20,2021-10-23,Month_10
+EVT_SUP000144_13,SUP000144,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2022-01-06,Month_13
+EVT_SUP000144_21,SUP000144,IT Operations Cyber Security Incident near operations hub,HIGH,20,2022-09-11,Month_21
+EVT_SUP000144_22,SUP000144,Labor Union Strike near operations hub,HIGH,20,2022-10-05,Month_22
+EVT_SUP000144_23,SUP000144,Local Power Grid Failures near operations hub,MEDIUM,12,2022-11-24,Month_23
+EVT_SUP000144_29,SUP000144,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2023-05-06,Month_29
+EVT_SUP000144_30,SUP000144,Regional Port Congestion delays near operations hub,MEDIUM,10,2023-06-07,Month_30
+EVT_SUP000144_43,SUP000144,Labor Union Strike near operations hub,HIGH,20,2024-07-25,Month_43
+EVT_SUP000144_44,SUP000144,Labor Union Strike near operations hub,HIGH,20,2024-08-24,Month_44
+EVT_SUP000144_46,SUP000144,Local Power Grid Failures near operations hub,MEDIUM,12,2024-10-05,Month_46
+EVT_SUP000144_47,SUP000144,Regional Port Congestion delays near operations hub,MEDIUM,10,2024-11-09,Month_47
+EVT_SUP000144_56,SUP000144,IT Operations Cyber Security Incident near operations hub,HIGH,20,2025-08-17,Month_56
+EVT_SUP000146_24,SUP000146,Local Power Grid Failures near operations hub,MEDIUM,12,2022-12-22,Month_24
+EVT_SUP000146_36,SUP000146,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2023-12-22,Month_36
+EVT_SUP000147_04,SUP000147,Regional Port Congestion delays near operations hub,MEDIUM,10,2021-04-17,Month_04
+EVT_SUP000148_25,SUP000148,Labor Union Strike near operations hub,HIGH,20,2023-01-17,Month_25
+EVT_SUP000148_41,SUP000148,IT Operations Cyber Security Incident near operations hub,HIGH,20,2024-05-07,Month_41
+EVT_SUP000148_49,SUP000148,Regional Port Congestion delays near operations hub,MEDIUM,10,2025-01-21,Month_49
+EVT_SUP000148_54,SUP000148,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2025-06-19,Month_54
+EVT_SUP000149_14,SUP000149,Regional Port Congestion delays near operations hub,MEDIUM,10,2022-02-11,Month_14
+EVT_SUP000149_15,SUP000149,Factory Fire Incidents near operations hub,CRITICAL,30,2022-03-21,Month_15
+EVT_SUP000149_19,SUP000149,Regional Port Congestion delays near operations hub,MEDIUM,10,2022-07-05,Month_19
+EVT_SUP000149_24,SUP000149,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2022-12-08,Month_24
+EVT_SUP000149_27,SUP000149,Local Power Grid Failures near operations hub,MEDIUM,12,2023-03-17,Month_27
+EVT_SUP000149_43,SUP000149,Local Power Grid Failures near operations hub,MEDIUM,12,2024-07-17,Month_43
+EVT_SUP000149_51,SUP000149,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2025-03-08,Month_51
+EVT_SUP000150_60,SUP000150,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2025-12-13,Month_60
+EVT_SUP000151_08,SUP000151,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2021-08-12,Month_08
+EVT_SUP000151_40,SUP000151,Local Power Grid Failures near operations hub,MEDIUM,12,2024-04-08,Month_40
+EVT_SUP000152_22,SUP000152,IT Operations Cyber Security Incident near operations hub,HIGH,20,2022-10-23,Month_22
+EVT_SUP000152_36,SUP000152,IT Operations Cyber Security Incident near operations hub,HIGH,20,2023-12-13,Month_36
+EVT_SUP000152_37,SUP000152,IT Operations Cyber Security Incident near operations hub,HIGH,20,2024-01-09,Month_37
+EVT_SUP000152_48,SUP000152,IT Operations Cyber Security Incident near operations hub,HIGH,20,2024-12-08,Month_48
+EVT_SUP000154_02,SUP000154,Factory Fire Incidents near operations hub,CRITICAL,30,2021-02-22,Month_02
+EVT_SUP000154_06,SUP000154,Factory Fire Incidents near operations hub,CRITICAL,30,2021-06-08,Month_06
+EVT_SUP000154_09,SUP000154,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2021-09-09,Month_09
+EVT_SUP000154_13,SUP000154,Local Power Grid Failures near operations hub,MEDIUM,12,2022-01-14,Month_13
+EVT_SUP000154_17,SUP000154,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2022-05-14,Month_17
+EVT_SUP000154_21,SUP000154,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2022-09-10,Month_21
+EVT_SUP000154_25,SUP000154,Labor Union Strike near operations hub,HIGH,20,2023-01-23,Month_25
+EVT_SUP000154_30,SUP000154,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2023-06-08,Month_30
+EVT_SUP000154_36,SUP000154,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2023-12-05,Month_36
+EVT_SUP000154_38,SUP000154,Factory Fire Incidents near operations hub,CRITICAL,30,2024-02-14,Month_38
+EVT_SUP000154_42,SUP000154,Labor Union Strike near operations hub,HIGH,20,2024-06-22,Month_42
+EVT_SUP000154_55,SUP000154,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2025-07-12,Month_55
+EVT_SUP000154_59,SUP000154,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2025-11-16,Month_59
+EVT_SUP000155_16,SUP000155,Labor Union Strike near operations hub,HIGH,20,2022-04-10,Month_16
+EVT_SUP000155_25,SUP000155,Local Power Grid Failures near operations hub,MEDIUM,12,2023-01-07,Month_25
+EVT_SUP000155_28,SUP000155,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2023-04-17,Month_28
+EVT_SUP000156_36,SUP000156,Local Power Grid Failures near operations hub,MEDIUM,12,2023-12-21,Month_36
+EVT_SUP000157_44,SUP000157,Factory Fire Incidents near operations hub,CRITICAL,30,2024-08-22,Month_44
+EVT_SUP000157_57,SUP000157,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2025-09-18,Month_57
+EVT_SUP000158_18,SUP000158,Regional Port Congestion delays near operations hub,MEDIUM,10,2022-06-20,Month_18
+EVT_SUP000158_30,SUP000158,Labor Union Strike near operations hub,HIGH,20,2023-06-22,Month_30
+EVT_SUP000158_31,SUP000158,IT Operations Cyber Security Incident near operations hub,HIGH,20,2023-07-17,Month_31
+EVT_SUP000158_33,SUP000158,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2023-09-15,Month_33
+EVT_SUP000158_50,SUP000158,Regional Port Congestion delays near operations hub,MEDIUM,10,2025-02-16,Month_50
+EVT_SUP000159_06,SUP000159,Factory Fire Incidents near operations hub,CRITICAL,30,2021-06-20,Month_06
+EVT_SUP000159_45,SUP000159,Regional Port Congestion delays near operations hub,MEDIUM,10,2024-09-22,Month_45
+EVT_SUP000159_53,SUP000159,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2025-05-13,Month_53
+EVT_SUP000160_04,SUP000160,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2021-04-11,Month_04
+EVT_SUP000160_05,SUP000160,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2021-05-22,Month_05
+EVT_SUP000160_11,SUP000160,Local Power Grid Failures near operations hub,MEDIUM,12,2021-11-15,Month_11
+EVT_SUP000160_33,SUP000160,Factory Fire Incidents near operations hub,CRITICAL,30,2023-09-20,Month_33
+EVT_SUP000161_04,SUP000161,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2021-04-20,Month_04
+EVT_SUP000161_20,SUP000161,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2022-08-14,Month_20
+EVT_SUP000162_11,SUP000162,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2021-11-06,Month_11
+EVT_SUP000162_58,SUP000162,Labor Union Strike near operations hub,HIGH,20,2025-10-22,Month_58
+EVT_SUP000165_56,SUP000165,IT Operations Cyber Security Incident near operations hub,HIGH,20,2025-08-17,Month_56
+EVT_SUP000167_58,SUP000167,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2025-10-14,Month_58
+EVT_SUP000168_48,SUP000168,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2024-12-07,Month_48
+EVT_SUP000170_08,SUP000170,Labor Union Strike near operations hub,HIGH,20,2021-08-22,Month_08
+EVT_SUP000170_26,SUP000170,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2023-02-18,Month_26
+EVT_SUP000170_59,SUP000170,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2025-11-25,Month_59
+EVT_SUP000172_19,SUP000172,Local Power Grid Failures near operations hub,MEDIUM,12,2022-07-21,Month_19
+EVT_SUP000173_09,SUP000173,Regional Port Congestion delays near operations hub,MEDIUM,10,2021-09-06,Month_09
+EVT_SUP000173_50,SUP000173,Local Power Grid Failures near operations hub,MEDIUM,12,2025-02-23,Month_50
+EVT_SUP000173_53,SUP000173,IT Operations Cyber Security Incident near operations hub,HIGH,20,2025-05-20,Month_53
+EVT_SUP000174_27,SUP000174,Regional Port Congestion delays near operations hub,MEDIUM,10,2023-03-14,Month_27
+EVT_SUP000174_28,SUP000174,Factory Fire Incidents near operations hub,CRITICAL,30,2023-04-14,Month_28
+EVT_SUP000174_32,SUP000174,Factory Fire Incidents near operations hub,CRITICAL,30,2023-08-10,Month_32
+EVT_SUP000175_28,SUP000175,Regional Port Congestion delays near operations hub,MEDIUM,10,2023-04-23,Month_28
+EVT_SUP000175_37,SUP000175,Regional Port Congestion delays near operations hub,MEDIUM,10,2024-01-09,Month_37
+EVT_SUP000176_06,SUP000176,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2021-06-06,Month_06
+EVT_SUP000176_47,SUP000176,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2024-11-25,Month_47
+EVT_SUP000178_12,SUP000178,IT Operations Cyber Security Incident near operations hub,HIGH,20,2021-12-13,Month_12
+EVT_SUP000178_22,SUP000178,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2022-10-06,Month_22
+EVT_SUP000178_23,SUP000178,IT Operations Cyber Security Incident near operations hub,HIGH,20,2022-11-17,Month_23
+EVT_SUP000178_37,SUP000178,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2024-01-13,Month_37
+EVT_SUP000178_51,SUP000178,Local Power Grid Failures near operations hub,MEDIUM,12,2025-03-13,Month_51
+EVT_SUP000178_56,SUP000178,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2025-08-23,Month_56
+EVT_SUP000178_57,SUP000178,IT Operations Cyber Security Incident near operations hub,HIGH,20,2025-09-16,Month_57
+EVT_SUP000179_38,SUP000179,Regional Port Congestion delays near operations hub,MEDIUM,10,2024-02-16,Month_38
+EVT_SUP000180_41,SUP000180,Regional Port Congestion delays near operations hub,MEDIUM,10,2024-05-06,Month_41
+EVT_SUP000182_01,SUP000182,IT Operations Cyber Security Incident near operations hub,HIGH,20,2021-01-17,Month_01
+EVT_SUP000182_43,SUP000182,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2024-07-07,Month_43
+EVT_SUP000182_60,SUP000182,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2025-12-09,Month_60
+EVT_SUP000183_08,SUP000183,Labor Union Strike near operations hub,HIGH,20,2021-08-15,Month_08
+EVT_SUP000183_49,SUP000183,Regional Port Congestion delays near operations hub,MEDIUM,10,2025-01-22,Month_49
+EVT_SUP000185_16,SUP000185,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2022-04-13,Month_16
+EVT_SUP000185_28,SUP000185,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2023-04-08,Month_28
+EVT_SUP000186_06,SUP000186,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2021-06-06,Month_06
+EVT_SUP000186_35,SUP000186,Labor Union Strike near operations hub,HIGH,20,2023-11-12,Month_35
+EVT_SUP000186_48,SUP000186,Labor Union Strike near operations hub,HIGH,20,2024-12-23,Month_48
+EVT_SUP000186_52,SUP000186,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2025-04-14,Month_52
+EVT_SUP000186_55,SUP000186,IT Operations Cyber Security Incident near operations hub,HIGH,20,2025-07-16,Month_55
+EVT_SUP000187_07,SUP000187,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2021-07-22,Month_07
+EVT_SUP000187_13,SUP000187,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2022-01-13,Month_13
+EVT_SUP000187_37,SUP000187,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2024-01-20,Month_37
+EVT_SUP000187_48,SUP000187,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2024-12-14,Month_48
+EVT_SUP000188_47,SUP000188,Labor Union Strike near operations hub,HIGH,20,2024-11-18,Month_47
+EVT_SUP000189_03,SUP000189,IT Operations Cyber Security Incident near operations hub,HIGH,20,2021-03-16,Month_03
+EVT_SUP000190_04,SUP000190,Regional Port Congestion delays near operations hub,MEDIUM,10,2021-04-11,Month_04
+EVT_SUP000190_08,SUP000190,IT Operations Cyber Security Incident near operations hub,HIGH,20,2021-08-21,Month_08
+EVT_SUP000190_12,SUP000190,Local Power Grid Failures near operations hub,MEDIUM,12,2021-12-12,Month_12
+EVT_SUP000190_23,SUP000190,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2022-11-15,Month_23
+EVT_SUP000190_28,SUP000190,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2023-04-24,Month_28
+EVT_SUP000190_52,SUP000190,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2025-04-16,Month_52
+EVT_SUP000190_54,SUP000190,IT Operations Cyber Security Incident near operations hub,HIGH,20,2025-06-05,Month_54
+EVT_SUP000190_58,SUP000190,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2025-10-24,Month_58
+EVT_SUP000190_60,SUP000190,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2025-12-07,Month_60
+EVT_SUP000191_60,SUP000191,Regional Port Congestion delays near operations hub,MEDIUM,10,2025-12-24,Month_60
+EVT_SUP000192_03,SUP000192,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2021-03-21,Month_03
+EVT_SUP000192_05,SUP000192,Labor Union Strike near operations hub,HIGH,20,2021-05-24,Month_05
+EVT_SUP000192_06,SUP000192,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2021-06-08,Month_06
+EVT_SUP000192_26,SUP000192,IT Operations Cyber Security Incident near operations hub,HIGH,20,2023-02-19,Month_26
+EVT_SUP000192_39,SUP000192,Labor Union Strike near operations hub,HIGH,20,2024-03-07,Month_39
+EVT_SUP000192_51,SUP000192,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2025-03-23,Month_51
+EVT_SUP000193_18,SUP000193,Labor Union Strike near operations hub,HIGH,20,2022-06-11,Month_18
+EVT_SUP000193_19,SUP000193,Monsoon Flood Logistics Interruption near operations hub,HIGH,25,2022-07-14,Month_19
+EVT_SUP000193_49,SUP000193,Factory Fire Incidents near operations hub,CRITICAL,30,2025-01-07,Month_49
+EVT_SUP000194_56,SUP000194,Local Power Grid Failures near operations hub,MEDIUM,12,2025-08-16,Month_56
+EVT_SUP000194_59,SUP000194,Regional Port Congestion delays near operations hub,MEDIUM,10,2025-11-20,Month_59
+EVT_SUP000195_42,SUP000195,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2024-06-07,Month_42
+EVT_SUP000195_51,SUP000195,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2025-03-05,Month_51
+EVT_SUP000197_56,SUP000197,Regional Port Congestion delays near operations hub,MEDIUM,10,2025-08-06,Month_56
+EVT_SUP000200_09,SUP000200,Factory Fire Incidents near operations hub,CRITICAL,30,2021-09-16,Month_09
+EVT_SUP000200_18,SUP000200,Regional Port Congestion delays near operations hub,MEDIUM,10,2022-06-05,Month_18
+EVT_SUP000200_19,SUP000200,IT Operations Cyber Security Incident near operations hub,HIGH,20,2022-07-05,Month_19
+EVT_SUP000200_23,SUP000200,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2022-11-18,Month_23
+EVT_SUP000200_25,SUP000200,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2023-01-07,Month_25
+EVT_SUP000200_26,SUP000200,Factory Fire Incidents near operations hub,CRITICAL,30,2023-02-17,Month_26
+EVT_SUP000200_28,SUP000200,Regional Port Congestion delays near operations hub,MEDIUM,10,2023-04-22,Month_28
+EVT_SUP000200_32,SUP000200,Labor Union Strike near operations hub,HIGH,20,2023-08-20,Month_32
+EVT_SUP000200_37,SUP000200,Export Tariff Policy Shifts near operations hub,MEDIUM,15,2024-01-20,Month_37
+EVT_SUP000200_41,SUP000200,Factory Fire Incidents near operations hub,CRITICAL,30,2024-05-11,Month_41
+EVT_SUP000200_43,SUP000200,Factory Fire Incidents near operations hub,CRITICAL,30,2024-07-25,Month_43
+EVT_SUP000200_44,SUP000200,Regional Port Congestion delays near operations hub,MEDIUM,10,2024-08-17,Month_44
+EVT_SUP000200_46,SUP000200,Labor Union Strike near operations hub,HIGH,20,2024-10-16,Month_46
+EVT_SUP000200_47,SUP000200,Local Power Grid Failures near operations hub,MEDIUM,12,2024-11-21,Month_47
+EVT_SUP000200_48,SUP000200,IT Operations Cyber Security Incident near operations hub,HIGH,20,2024-12-11,Month_48
+EVT_SUP000200_54,SUP000200,Raw Material Supply Bottlenecks near operations hub,HIGH,18,2025-06-07,Month_54
+EVT_SUP000200_55,SUP000200,Regional Port Congestion delays near operations hub,MEDIUM,10,2025-07-21,Month_55

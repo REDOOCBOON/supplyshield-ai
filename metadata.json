@@ -1,0 +1,6 @@
+{
+  "name": "SupplyShield-AI",
+  "description": "Enterprise-grade Supplier Intelligence platform utilizing AI-driven trust scoring, risk forecasting, and scenario simulation to secure supply chains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
