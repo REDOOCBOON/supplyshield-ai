@@ -1,5 +1,5 @@
 # Use an official Node runtime as parent image
-FROM node:20-slim
+FROM node:22-bookworm
 
 # Install system dependencies (Python 3, pip, and venv)
 RUN apt-get update && apt-get install -y \
@@ -27,7 +27,7 @@ RUN python3 -m venv venv && \
     ./venv/bin/pip install pandas scikit-learn
 
 # Rebuild native Node modules (e.g., sqlite3) for the container Linux environment
-RUN npm rebuild
+RUN npm rebuild sqlite3 --build-from-source
 
 # Run the data simulation generation, ML training, and SQLite database seeding
 # so that the container is fully pre-seeded and pre-trained
